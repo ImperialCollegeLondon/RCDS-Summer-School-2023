@@ -20,9 +20,9 @@ To download the content of the files within the Codespace, open the Files tab on
 
 ## Using Jupyter Notebooks
 
-Jupyter Notebooks are a great learning tool. They combine two types of content - text and code cells. You will notice that we organised our materials into short explanation blocks followed by a code cell. 
+Jupyter Notebooks are a great learning tool. They combine two types of content - text and code cells. You will notice that we organised our materials into short explanation blocks followed by code cells. 
 
-The code cells can be executed using an arrow icon to the left of the cell. Alternative way to execute the cell is to press ```shift``` and ```enter``` at the same time (this is easier done using the right ```shift```). The snippet of code will get executed. If the cell contains a print statement, output will be displayed below. If the code produced an error, the error trace will be shown. The code cells should be executed from top to bottom of the notebook - in case a code snippet depends on a code above.
+The code cells can be executed using the arrow icon to the left of the cell. Alternative way to execute the cell is to press ```shift``` and ```enter``` at the same time (this is easier done using the right ```shift```). If the cell contains a print statement, output will be displayed below. If the code produced an error, the error trace will be shown. The code cells should be executed from top to bottom of the notebook - in case a code snippet depends on a code above.
 
 ![notebook code cell](/Resources/notebook_code_cell.png "Notebook code cell")
 
