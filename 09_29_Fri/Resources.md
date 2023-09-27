@@ -8,7 +8,7 @@ Here are some resources that you might find useful as starting points for your p
 * [DataHub](https://datahub.io)
 * [OpenML](https://www.openml.org)
 * [Papers with code](https://paperswithcode.com/datasets)
-* [UCI machine learning repository](https://archive.ics.uci.edu/ml/index.php)
+* [UCI machine learning repository](https://archive.ics.uci.edu)
 * [UK government open data](https://www.data.gov.uk)
 * [UK data service](https://ukdataservice.ac.uk)
 * [CERN open data](https://opendata.cern.ch)
