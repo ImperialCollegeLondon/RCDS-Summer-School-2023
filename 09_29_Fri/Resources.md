@@ -7,7 +7,7 @@ Here are some resources that you might find useful as starting points for your p
 
 * [DataHub](https://datahub.io/search)
 * [OpenML](https://www.openml.org)
-* [Papers with code](https://paperswithcode.com/datasets)
+* [GapMinder](https://www.gapminder.org/data/)
 * [UCI machine learning repository](https://archive.ics.uci.edu)
 * [UK government open data](https://www.data.gov.uk)
 * [UK data service](https://ukdataservice.ac.uk)
