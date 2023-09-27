@@ -5,7 +5,7 @@ Here are some resources that you might find useful as starting points for your p
 
 ## Static Data
 
-* [DataHub](https://datahub.io)
+* [DataHub](https://datahub.io/search)
 * [OpenML](https://www.openml.org)
 * [Papers with code](https://paperswithcode.com/datasets)
 * [UCI machine learning repository](https://archive.ics.uci.edu)
