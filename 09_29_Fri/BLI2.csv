@@ -1,0 +1,2310 @@
+LOCATION,Country,INDICATOR,Indicator,Inequality,Unit Code,Value
+AUS,Australia,JE_LMIS,Labour market insecurity,Total,PC,3.1
+AUT,Austria,JE_LMIS,Labour market insecurity,Total,PC,2.3
+BEL,Belgium,JE_LMIS,Labour market insecurity,Total,PC,2.4
+CAN,Canada,JE_LMIS,Labour market insecurity,Total,PC,3.8
+CZE,Czech Republic,JE_LMIS,Labour market insecurity,Total,PC,2.3
+DNK,Denmark,JE_LMIS,Labour market insecurity,Total,PC,4.5
+FIN,Finland,JE_LMIS,Labour market insecurity,Total,PC,2.2
+FRA,France,JE_LMIS,Labour market insecurity,Total,PC,3.1
+DEU,Germany,JE_LMIS,Labour market insecurity,Total,PC,1.4
+GRC,Greece,JE_LMIS,Labour market insecurity,Total,PC,21.7
+HUN,Hungary,JE_LMIS,Labour market insecurity,Total,PC,3.8
+ISL,Iceland,JE_LMIS,Labour market insecurity,Total,PC,1.0
+IRL,Ireland,JE_LMIS,Labour market insecurity,Total,PC,2.6
+ITA,Italy,JE_LMIS,Labour market insecurity,Total,PC,8.6
+JPN,Japan,JE_LMIS,Labour market insecurity,Total,PC,2.7
+KOR,Korea,JE_LMIS,Labour market insecurity,Total,PC,2.9
+LUX,Luxembourg,JE_LMIS,Labour market insecurity,Total,PC,2.2
+MEX,Mexico,JE_LMIS,Labour market insecurity,Total,PC,4.0
+NLD,Netherlands,JE_LMIS,Labour market insecurity,Total,PC,2.5
+NZL,New Zealand,JE_LMIS,Labour market insecurity,Total,PC,4.5
+NOR,Norway,JE_LMIS,Labour market insecurity,Total,PC,2.8
+POL,Poland,JE_LMIS,Labour market insecurity,Total,PC,5.0
+PRT,Portugal,JE_LMIS,Labour market insecurity,Total,PC,8.1
+SVK,Slovak Republic,JE_LMIS,Labour market insecurity,Total,PC,8.8
+ESP,Spain,JE_LMIS,Labour market insecurity,Total,PC,15.8
+SWE,Sweden,JE_LMIS,Labour market insecurity,Total,PC,4.4
+TUR,Türkiye,JE_LMIS,Labour market insecurity,Total,PC,13.0
+GBR,United Kingdom,JE_LMIS,Labour market insecurity,Total,PC,3.3
+USA,United States,JE_LMIS,Labour market insecurity,Total,PC,4.2
+CHL,Chile,JE_LMIS,Labour market insecurity,Total,PC,7.0
+EST,Estonia,JE_LMIS,Labour market insecurity,Total,PC,5.4
+ISR,Israel,JE_LMIS,Labour market insecurity,Total,PC,4.6
+LVA,Latvia,JE_LMIS,Labour market insecurity,Total,PC,6.3
+SVN,Slovenia,JE_LMIS,Labour market insecurity,Total,PC,5.9
+AUS,Australia,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.7
+AUT,Austria,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.3
+BEL,Belgium,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.0
+CAN,Canada,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.9
+CZE,Czech Republic,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.6
+DNK,Denmark,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.0
+FIN,Finland,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.2
+FRA,France,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.1
+DEU,Germany,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.8
+GRC,Greece,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.8
+HUN,Hungary,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.2
+ISL,Iceland,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.1
+IRL,Ireland,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.3
+ITA,Italy,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.5
+JPN,Japan,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.4
+KOR,Korea,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.9
+LUX,Luxembourg,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.7
+MEX,Mexico,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,3.2
+NLD,Netherlands,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.6
+NZL,New Zealand,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.5
+NOR,Norway,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.2
+POL,Poland,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.6
+PRT,Portugal,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.5
+SVK,Slovak Republic,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,3.0
+ESP,Spain,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.8
+SWE,Sweden,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.0
+CHE,Switzerland,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.3
+TUR,Türkiye,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.5
+GBR,United Kingdom,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,3.1
+USA,United States,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,3.1
+BRA,Brazil,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.2
+CHL,Chile,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.3
+EST,Estonia,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.7
+ISR,Israel,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.5
+LVA,Latvia,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.2
+SVN,Slovenia,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.5
+AUT,Austria,HO_BASE,Dwellings without basic facilities,Total,PC,0.8
+BEL,Belgium,HO_BASE,Dwellings without basic facilities,Total,PC,0.7
+CAN,Canada,HO_BASE,Dwellings without basic facilities,Total,PC,0.2
+CZE,Czech Republic,HO_BASE,Dwellings without basic facilities,Total,PC,0.5
+DNK,Denmark,HO_BASE,Dwellings without basic facilities,Total,PC,0.5
+FIN,Finland,HO_BASE,Dwellings without basic facilities,Total,PC,0.4
+FRA,France,HO_BASE,Dwellings without basic facilities,Total,PC,0.5
+DEU,Germany,HO_BASE,Dwellings without basic facilities,Total,PC,0.1
+GRC,Greece,HO_BASE,Dwellings without basic facilities,Total,PC,0.4
+HUN,Hungary,HO_BASE,Dwellings without basic facilities,Total,PC,3.5
+ISL,Iceland,HO_BASE,Dwellings without basic facilities,Total,PC,0.0
+IRL,Ireland,HO_BASE,Dwellings without basic facilities,Total,PC,0.2
+ITA,Italy,HO_BASE,Dwellings without basic facilities,Total,PC,0.6
+JPN,Japan,HO_BASE,Dwellings without basic facilities,Total,PC,6.4
+KOR,Korea,HO_BASE,Dwellings without basic facilities,Total,PC,2.5
+LUX,Luxembourg,HO_BASE,Dwellings without basic facilities,Total,PC,0.1
+MEX,Mexico,HO_BASE,Dwellings without basic facilities,Total,PC,25.9
+NLD,Netherlands,HO_BASE,Dwellings without basic facilities,Total,PC,0.1
+NOR,Norway,HO_BASE,Dwellings without basic facilities,Total,PC,0.0
+POL,Poland,HO_BASE,Dwellings without basic facilities,Total,PC,2.3
+PRT,Portugal,HO_BASE,Dwellings without basic facilities,Total,PC,0.9
+SVK,Slovak Republic,HO_BASE,Dwellings without basic facilities,Total,PC,1.5
+ESP,Spain,HO_BASE,Dwellings without basic facilities,Total,PC,0.3
+SWE,Sweden,HO_BASE,Dwellings without basic facilities,Total,PC,0.0
+CHE,Switzerland,HO_BASE,Dwellings without basic facilities,Total,PC,0.0
+TUR,Türkiye,HO_BASE,Dwellings without basic facilities,Total,PC,4.9
+GBR,United Kingdom,HO_BASE,Dwellings without basic facilities,Total,PC,0.5
+USA,United States,HO_BASE,Dwellings without basic facilities,Total,PC,0.1
+BRA,Brazil,HO_BASE,Dwellings without basic facilities,Total,PC,6.7
+CHL,Chile,HO_BASE,Dwellings without basic facilities,Total,PC,9.4
+EST,Estonia,HO_BASE,Dwellings without basic facilities,Total,PC,5.7
+LVA,Latvia,HO_BASE,Dwellings without basic facilities,Total,PC,11.2
+RUS,Russia,HO_BASE,Dwellings without basic facilities,Total,PC,13.8
+SVN,Slovenia,HO_BASE,Dwellings without basic facilities,Total,PC,0.2
+ZAF,South Africa,HO_BASE,Dwellings without basic facilities,Total,PC,35.9
+AUS,Australia,HO_HISH,Housing expenditure,Total,PC,19.4
+AUT,Austria,HO_HISH,Housing expenditure,Total,PC,20.8
+BEL,Belgium,HO_HISH,Housing expenditure,Total,PC,20.0
+CAN,Canada,HO_HISH,Housing expenditure,Total,PC,22.9
+CZE,Czech Republic,HO_HISH,Housing expenditure,Total,PC,23.4
+DNK,Denmark,HO_HISH,Housing expenditure,Total,PC,23.3
+FIN,Finland,HO_HISH,Housing expenditure,Total,PC,23.1
+FRA,France,HO_HISH,Housing expenditure,Total,PC,20.7
+DEU,Germany,HO_HISH,Housing expenditure,Total,PC,20.0
+GRC,Greece,HO_HISH,Housing expenditure,Total,PC,21.8
+HUN,Hungary,HO_HISH,Housing expenditure,Total,PC,19.9
+IRL,Ireland,HO_HISH,Housing expenditure,Total,PC,20.6
+ITA,Italy,HO_HISH,Housing expenditure,Total,PC,22.5
+JPN,Japan,HO_HISH,Housing expenditure,Total,PC,21.8
+KOR,Korea,HO_HISH,Housing expenditure,Total,PC,14.7
+LUX,Luxembourg,HO_HISH,Housing expenditure,Total,PC,20.7
+MEX,Mexico,HO_HISH,Housing expenditure,Total,PC,17.8
+NLD,Netherlands,HO_HISH,Housing expenditure,Total,PC,19.6
+NZL,New Zealand,HO_HISH,Housing expenditure,Total,PC,25.0
+NOR,Norway,HO_HISH,Housing expenditure,Total,PC,17.7
+POL,Poland,HO_HISH,Housing expenditure,Total,PC,21.2
+PRT,Portugal,HO_HISH,Housing expenditure,Total,PC,19.6
+SVK,Slovak Republic,HO_HISH,Housing expenditure,Total,PC,27.4
+ESP,Spain,HO_HISH,Housing expenditure,Total,PC,21.7
+SWE,Sweden,HO_HISH,Housing expenditure,Total,PC,20.1
+CHE,Switzerland,HO_HISH,Housing expenditure,Total,PC,21.4
+TUR,Türkiye,HO_HISH,Housing expenditure,Total,PC,18.9
+GBR,United Kingdom,HO_HISH,Housing expenditure,Total,PC,23.2
+USA,United States,HO_HISH,Housing expenditure,Total,PC,18.3
+CHL,Chile,HO_HISH,Housing expenditure,Total,PC,18.4
+EST,Estonia,HO_HISH,Housing expenditure,Total,PC,17.0
+LVA,Latvia,HO_HISH,Housing expenditure,Total,PC,20.8
+RUS,Russia,HO_HISH,Housing expenditure,Total,PC,17.4
+SVN,Slovenia,HO_HISH,Housing expenditure,Total,PC,18.2
+ZAF,South Africa,HO_HISH,Housing expenditure,Total,PC,18.1
+AUS,Australia,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,67.0
+AUT,Austria,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,86.0
+BEL,Belgium,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,56.0
+CAN,Canada,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,78.0
+CZE,Czech Republic,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,77.0
+DNK,Denmark,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,85.0
+FIN,Finland,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,88.0
+FRA,France,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,74.0
+DEU,Germany,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,76.0
+GRC,Greece,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,69.0
+HUN,Hungary,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,74.0
+ISL,Iceland,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,85.0
+IRL,Ireland,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,76.0
+ITA,Italy,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,73.0
+JPN,Japan,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,77.0
+KOR,Korea,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,82.0
+LUX,Luxembourg,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,87.0
+MEX,Mexico,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,42.0
+NLD,Netherlands,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,83.0
+NZL,New Zealand,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,66.0
+NOR,Norway,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,93.0
+POL,Poland,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,71.0
+PRT,Portugal,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,83.0
+SVK,Slovak Republic,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,76.0
+ESP,Spain,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,80.0
+SWE,Sweden,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,79.0
+CHE,Switzerland,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,86.0
+TUR,Türkiye,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,59.0
+GBR,United Kingdom,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,78.0
+USA,United States,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,78.0
+BRA,Brazil,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,45.0
+CHL,Chile,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,41.0
+EST,Estonia,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,79.0
+ISR,Israel,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,80.0
+LVA,Latvia,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,72.0
+RUS,Russia,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,64.0
+SVN,Slovenia,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,91.0
+ZAF,South Africa,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,40.0
+AUS,Australia,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,81.0
+AUT,Austria,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,89.0
+BEL,Belgium,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,66.0
+CAN,Canada,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,88.0
+CZE,Czech Republic,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,88.0
+DNK,Denmark,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,94.0
+FIN,Finland,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,96.0
+FRA,France,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,78.0
+DEU,Germany,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,83.0
+GRC,Greece,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,79.0
+HUN,Hungary,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,83.0
+ISL,Iceland,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,93.0
+IRL,Ireland,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,86.0
+ITA,Italy,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,79.0
+JPN,Japan,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,85.0
+KOR,Korea,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,87.0
+LUX,Luxembourg,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,89.0
+MEX,Mexico,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,54.0
+NLD,Netherlands,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,95.0
+NZL,New Zealand,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,80.0
+NOR,Norway,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,98.0
+POL,Poland,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,80.0
+PRT,Portugal,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,92.0
+SVK,Slovak Republic,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,86.0
+ESP,Spain,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,86.0
+SWE,Sweden,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,90.0
+CHE,Switzerland,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,91.0
+TUR,Türkiye,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,72.0
+GBR,United Kingdom,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,80.0
+USA,United States,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,88.0
+BRA,Brazil,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,55.0
+CHL,Chile,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,53.0
+EST,Estonia,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,90.0
+ISR,Israel,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,83.0
+LVA,Latvia,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,87.0
+RUS,Russia,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,74.0
+SVN,Slovenia,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,95.0
+ZAF,South Africa,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,46.0
+AUS,Australia,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,54.0
+AUT,Austria,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,82.0
+BEL,Belgium,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,47.0
+CAN,Canada,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,67.0
+CZE,Czech Republic,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,67.0
+DNK,Denmark,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,77.0
+FIN,Finland,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,80.0
+FRA,France,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,70.0
+DEU,Germany,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,69.0
+GRC,Greece,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,59.0
+HUN,Hungary,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,65.0
+ISL,Iceland,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,78.0
+IRL,Ireland,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,67.0
+ITA,Italy,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,67.0
+JPN,Japan,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,69.0
+KOR,Korea,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,77.0
+LUX,Luxembourg,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,84.0
+MEX,Mexico,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,32.0
+NLD,Netherlands,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,72.0
+NZL,New Zealand,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,53.0
+NOR,Norway,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,89.0
+POL,Poland,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,63.0
+PRT,Portugal,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,75.0
+SVK,Slovak Republic,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,67.0
+ESP,Spain,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,75.0
+SWE,Sweden,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,68.0
+CHE,Switzerland,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,81.0
+TUR,Türkiye,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,45.0
+GBR,United Kingdom,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,77.0
+USA,United States,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,69.0
+BRA,Brazil,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,34.0
+CHL,Chile,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,30.0
+EST,Estonia,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,71.0
+ISR,Israel,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,77.0
+LVA,Latvia,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,61.0
+RUS,Russia,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,55.0
+SVN,Slovenia,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,85.0
+ZAF,South Africa,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,35.0
+AUT,Austria,HO_NUMR,Rooms per person,Total,RATIO,1.6
+BEL,Belgium,HO_NUMR,Rooms per person,Total,RATIO,2.1
+CAN,Canada,HO_NUMR,Rooms per person,Total,RATIO,2.6
+CZE,Czech Republic,HO_NUMR,Rooms per person,Total,RATIO,1.5
+DNK,Denmark,HO_NUMR,Rooms per person,Total,RATIO,1.9
+FIN,Finland,HO_NUMR,Rooms per person,Total,RATIO,1.9
+FRA,France,HO_NUMR,Rooms per person,Total,RATIO,1.8
+DEU,Germany,HO_NUMR,Rooms per person,Total,RATIO,1.8
+GRC,Greece,HO_NUMR,Rooms per person,Total,RATIO,1.2
+HUN,Hungary,HO_NUMR,Rooms per person,Total,RATIO,1.4
+ISL,Iceland,HO_NUMR,Rooms per person,Total,RATIO,1.6
+IRL,Ireland,HO_NUMR,Rooms per person,Total,RATIO,2.1
+ITA,Italy,HO_NUMR,Rooms per person,Total,RATIO,1.4
+JPN,Japan,HO_NUMR,Rooms per person,Total,RATIO,1.9
+KOR,Korea,HO_NUMR,Rooms per person,Total,RATIO,1.5
+LUX,Luxembourg,HO_NUMR,Rooms per person,Total,RATIO,2.0
+MEX,Mexico,HO_NUMR,Rooms per person,Total,RATIO,1.1
+NLD,Netherlands,HO_NUMR,Rooms per person,Total,RATIO,2.0
+NZL,New Zealand,HO_NUMR,Rooms per person,Total,RATIO,2.4
+NOR,Norway,HO_NUMR,Rooms per person,Total,RATIO,2.1
+POL,Poland,HO_NUMR,Rooms per person,Total,RATIO,1.1
+PRT,Portugal,HO_NUMR,Rooms per person,Total,RATIO,1.7
+SVK,Slovak Republic,HO_NUMR,Rooms per person,Total,RATIO,1.1
+ESP,Spain,HO_NUMR,Rooms per person,Total,RATIO,1.9
+SWE,Sweden,HO_NUMR,Rooms per person,Total,RATIO,1.7
+CHE,Switzerland,HO_NUMR,Rooms per person,Total,RATIO,1.9
+TUR,Türkiye,HO_NUMR,Rooms per person,Total,RATIO,1.0
+GBR,United Kingdom,HO_NUMR,Rooms per person,Total,RATIO,2.0
+USA,United States,HO_NUMR,Rooms per person,Total,RATIO,2.4
+CHL,Chile,HO_NUMR,Rooms per person,Total,RATIO,1.9
+EST,Estonia,HO_NUMR,Rooms per person,Total,RATIO,1.7
+ISR,Israel,HO_NUMR,Rooms per person,Total,RATIO,1.2
+LVA,Latvia,HO_NUMR,Rooms per person,Total,RATIO,1.2
+RUS,Russia,HO_NUMR,Rooms per person,Total,RATIO,1.0
+SVN,Slovenia,HO_NUMR,Rooms per person,Total,RATIO,1.6
+AUS,Australia,IW_HADI,Household net adjusted disposable income,Total,USD,37433.0
+AUT,Austria,IW_HADI,Household net adjusted disposable income,Total,USD,37001.0
+BEL,Belgium,IW_HADI,Household net adjusted disposable income,Total,USD,34884.0
+CAN,Canada,IW_HADI,Household net adjusted disposable income,Total,USD,34421.0
+CZE,Czech Republic,IW_HADI,Household net adjusted disposable income,Total,USD,26664.0
+DNK,Denmark,IW_HADI,Household net adjusted disposable income,Total,USD,33774.0
+FIN,Finland,IW_HADI,Household net adjusted disposable income,Total,USD,33471.0
+FRA,France,IW_HADI,Household net adjusted disposable income,Total,USD,34375.0
+DEU,Germany,IW_HADI,Household net adjusted disposable income,Total,USD,38971.0
+GRC,Greece,IW_HADI,Household net adjusted disposable income,Total,USD,20791.0
+HUN,Hungary,IW_HADI,Household net adjusted disposable income,Total,USD,21026.0
+IRL,Ireland,IW_HADI,Household net adjusted disposable income,Total,USD,29488.0
+ITA,Italy,IW_HADI,Household net adjusted disposable income,Total,USD,29431.0
+JPN,Japan,IW_HADI,Household net adjusted disposable income,Total,USD,28872.0
+KOR,Korea,IW_HADI,Household net adjusted disposable income,Total,USD,24590.0
+LUX,Luxembourg,IW_HADI,Household net adjusted disposable income,Total,USD,44773.0
+MEX,Mexico,IW_HADI,Household net adjusted disposable income,Total,USD,16269.0
+NLD,Netherlands,IW_HADI,Household net adjusted disposable income,Total,USD,34984.0
+NZL,New Zealand,IW_HADI,Household net adjusted disposable income,Total,USD,39024.0
+NOR,Norway,IW_HADI,Household net adjusted disposable income,Total,USD,39144.0
+POL,Poland,IW_HADI,Household net adjusted disposable income,Total,USD,23675.0
+PRT,Portugal,IW_HADI,Household net adjusted disposable income,Total,USD,24877.0
+SVK,Slovak Republic,IW_HADI,Household net adjusted disposable income,Total,USD,21149.0
+ESP,Spain,IW_HADI,Household net adjusted disposable income,Total,USD,27155.0
+SWE,Sweden,IW_HADI,Household net adjusted disposable income,Total,USD,33730.0
+CHE,Switzerland,IW_HADI,Household net adjusted disposable income,Total,USD,39697.0
+GBR,United Kingdom,IW_HADI,Household net adjusted disposable income,Total,USD,33049.0
+USA,United States,IW_HADI,Household net adjusted disposable income,Total,USD,51147.0
+EST,Estonia,IW_HADI,Household net adjusted disposable income,Total,USD,23784.0
+LVA,Latvia,IW_HADI,Household net adjusted disposable income,Total,USD,19783.0
+RUS,Russia,IW_HADI,Household net adjusted disposable income,Total,USD,19546.0
+SVN,Slovenia,IW_HADI,Household net adjusted disposable income,Total,USD,25250.0
+ZAF,South Africa,IW_HADI,Household net adjusted disposable income,Total,USD,9338.0
+AUS,Australia,IW_HNFW,Household net wealth,Total,USD,528768.0
+AUT,Austria,IW_HNFW,Household net wealth,Total,USD,309637.0
+BEL,Belgium,IW_HNFW,Household net wealth,Total,USD,447607.0
+CAN,Canada,IW_HNFW,Household net wealth,Total,USD,478240.0
+DNK,Denmark,IW_HNFW,Household net wealth,Total,USD,149864.0
+FIN,Finland,IW_HNFW,Household net wealth,Total,USD,230032.0
+FRA,France,IW_HNFW,Household net wealth,Total,USD,298639.0
+DEU,Germany,IW_HNFW,Household net wealth,Total,USD,304317.0
+GRC,Greece,IW_HNFW,Household net wealth,Total,USD,148323.0
+HUN,Hungary,IW_HNFW,Household net wealth,Total,USD,150296.0
+IRL,Ireland,IW_HNFW,Household net wealth,Total,USD,370341.0
+ITA,Italy,IW_HNFW,Household net wealth,Total,USD,295020.0
+JPN,Japan,IW_HNFW,Household net wealth,Total,USD,294735.0
+KOR,Korea,IW_HNFW,Household net wealth,Total,USD,362340.0
+LUX,Luxembourg,IW_HNFW,Household net wealth,Total,USD,941162.0
+NLD,Netherlands,IW_HNFW,Household net wealth,Total,USD,248599.0
+NZL,New Zealand,IW_HNFW,Household net wealth,Total,USD,514162.0
+NOR,Norway,IW_HNFW,Household net wealth,Total,USD,268358.0
+POL,Poland,IW_HNFW,Household net wealth,Total,USD,233221.0
+PRT,Portugal,IW_HNFW,Household net wealth,Total,USD,255303.0
+SVK,Slovak Republic,IW_HNFW,Household net wealth,Total,USD,171425.0
+ESP,Spain,IW_HNFW,Household net wealth,Total,USD,366534.0
+GBR,United Kingdom,IW_HNFW,Household net wealth,Total,USD,524422.0
+USA,United States,IW_HNFW,Household net wealth,Total,USD,684500.0
+CHL,Chile,IW_HNFW,Household net wealth,Total,USD,135787.0
+EST,Estonia,IW_HNFW,Household net wealth,Total,USD,188627.0
+LVA,Latvia,IW_HNFW,Household net wealth,Total,USD,79245.0
+SVN,Slovenia,IW_HNFW,Household net wealth,Total,USD,233286.0
+AUS,Australia,JE_EMPL,Employment rate,Total,PC,73.0
+AUT,Austria,JE_EMPL,Employment rate,Total,PC,72.0
+BEL,Belgium,JE_EMPL,Employment rate,Total,PC,65.0
+CAN,Canada,JE_EMPL,Employment rate,Total,PC,70.0
+CZE,Czech Republic,JE_EMPL,Employment rate,Total,PC,74.0
+DNK,Denmark,JE_EMPL,Employment rate,Total,PC,74.0
+FIN,Finland,JE_EMPL,Employment rate,Total,PC,72.0
+FRA,France,JE_EMPL,Employment rate,Total,PC,65.0
+DEU,Germany,JE_EMPL,Employment rate,Total,PC,77.0
+GRC,Greece,JE_EMPL,Employment rate,Total,PC,56.0
+HUN,Hungary,JE_EMPL,Employment rate,Total,PC,70.0
+ISL,Iceland,JE_EMPL,Employment rate,Total,PC,78.0
+IRL,Ireland,JE_EMPL,Employment rate,Total,PC,68.0
+ITA,Italy,JE_EMPL,Employment rate,Total,PC,58.0
+JPN,Japan,JE_EMPL,Employment rate,Total,PC,77.0
+KOR,Korea,JE_EMPL,Employment rate,Total,PC,66.0
+LUX,Luxembourg,JE_EMPL,Employment rate,Total,PC,67.0
+MEX,Mexico,JE_EMPL,Employment rate,Total,PC,59.0
+NLD,Netherlands,JE_EMPL,Employment rate,Total,PC,78.0
+NZL,New Zealand,JE_EMPL,Employment rate,Total,PC,77.0
+NOR,Norway,JE_EMPL,Employment rate,Total,PC,75.0
+POL,Poland,JE_EMPL,Employment rate,Total,PC,69.0
+PRT,Portugal,JE_EMPL,Employment rate,Total,PC,69.0
+SVK,Slovak Republic,JE_EMPL,Employment rate,Total,PC,68.0
+ESP,Spain,JE_EMPL,Employment rate,Total,PC,62.0
+SWE,Sweden,JE_EMPL,Employment rate,Total,PC,75.0
+CHE,Switzerland,JE_EMPL,Employment rate,Total,PC,80.0
+TUR,Türkiye,JE_EMPL,Employment rate,Total,PC,48.0
+GBR,United Kingdom,JE_EMPL,Employment rate,Total,PC,75.0
+USA,United States,JE_EMPL,Employment rate,Total,PC,67.0
+BRA,Brazil,JE_EMPL,Employment rate,Total,PC,57.0
+CHL,Chile,JE_EMPL,Employment rate,Total,PC,56.0
+EST,Estonia,JE_EMPL,Employment rate,Total,PC,74.0
+ISR,Israel,JE_EMPL,Employment rate,Total,PC,67.0
+LVA,Latvia,JE_EMPL,Employment rate,Total,PC,72.0
+RUS,Russia,JE_EMPL,Employment rate,Total,PC,70.0
+SVN,Slovenia,JE_EMPL,Employment rate,Total,PC,71.0
+ZAF,South Africa,JE_EMPL,Employment rate,Total,PC,39.0
+AUS,Australia,JE_EMPL,Employment rate,Men,PC,77.0
+AUT,Austria,JE_EMPL,Employment rate,Men,PC,76.0
+BEL,Belgium,JE_EMPL,Employment rate,Men,PC,68.0
+CAN,Canada,JE_EMPL,Employment rate,Men,PC,73.0
+CZE,Czech Republic,JE_EMPL,Employment rate,Men,PC,81.0
+DNK,Denmark,JE_EMPL,Employment rate,Men,PC,77.0
+FIN,Finland,JE_EMPL,Employment rate,Men,PC,74.0
+FRA,France,JE_EMPL,Employment rate,Men,PC,68.0
+DEU,Germany,JE_EMPL,Employment rate,Men,PC,80.0
+GRC,Greece,JE_EMPL,Employment rate,Men,PC,65.0
+HUN,Hungary,JE_EMPL,Employment rate,Men,PC,77.0
+ISL,Iceland,JE_EMPL,Employment rate,Men,PC,80.0
+IRL,Ireland,JE_EMPL,Employment rate,Men,PC,73.0
+ITA,Italy,JE_EMPL,Employment rate,Men,PC,67.0
+JPN,Japan,JE_EMPL,Employment rate,Men,PC,84.0
+KOR,Korea,JE_EMPL,Employment rate,Men,PC,75.0
+LUX,Luxembourg,JE_EMPL,Employment rate,Men,PC,70.0
+MEX,Mexico,JE_EMPL,Employment rate,Men,PC,76.0
+NLD,Netherlands,JE_EMPL,Employment rate,Men,PC,82.0
+NZL,New Zealand,JE_EMPL,Employment rate,Men,PC,81.0
+NOR,Norway,JE_EMPL,Employment rate,Men,PC,77.0
+POL,Poland,JE_EMPL,Employment rate,Men,PC,76.0
+PRT,Portugal,JE_EMPL,Employment rate,Men,PC,72.0
+SVK,Slovak Republic,JE_EMPL,Employment rate,Men,PC,73.0
+ESP,Spain,JE_EMPL,Employment rate,Men,PC,67.0
+SWE,Sweden,JE_EMPL,Employment rate,Men,PC,77.0
+CHE,Switzerland,JE_EMPL,Employment rate,Men,PC,84.0
+TUR,Türkiye,JE_EMPL,Employment rate,Men,PC,65.0
+GBR,United Kingdom,JE_EMPL,Employment rate,Men,PC,79.0
+USA,United States,JE_EMPL,Employment rate,Men,PC,72.0
+BRA,Brazil,JE_EMPL,Employment rate,Men,PC,67.0
+CHL,Chile,JE_EMPL,Employment rate,Men,PC,65.0
+EST,Estonia,JE_EMPL,Employment rate,Men,PC,76.0
+ISR,Israel,JE_EMPL,Employment rate,Men,PC,69.0
+LVA,Latvia,JE_EMPL,Employment rate,Men,PC,73.0
+RUS,Russia,JE_EMPL,Employment rate,Men,PC,75.0
+SVN,Slovenia,JE_EMPL,Employment rate,Men,PC,74.0
+ZAF,South Africa,JE_EMPL,Employment rate,Men,PC,44.0
+AUS,Australia,JE_EMPL,Employment rate,Women,PC,69.0
+AUT,Austria,JE_EMPL,Employment rate,Women,PC,68.0
+BEL,Belgium,JE_EMPL,Employment rate,Women,PC,61.0
+CAN,Canada,JE_EMPL,Employment rate,Women,PC,67.0
+CZE,Czech Republic,JE_EMPL,Employment rate,Women,PC,67.0
+DNK,Denmark,JE_EMPL,Employment rate,Women,PC,71.0
+FIN,Finland,JE_EMPL,Employment rate,Women,PC,71.0
+FRA,France,JE_EMPL,Employment rate,Women,PC,62.0
+DEU,Germany,JE_EMPL,Employment rate,Women,PC,73.0
+GRC,Greece,JE_EMPL,Employment rate,Women,PC,47.0
+HUN,Hungary,JE_EMPL,Employment rate,Women,PC,62.0
+ISL,Iceland,JE_EMPL,Employment rate,Women,PC,75.0
+IRL,Ireland,JE_EMPL,Employment rate,Women,PC,63.0
+ITA,Italy,JE_EMPL,Employment rate,Women,PC,49.0
+JPN,Japan,JE_EMPL,Employment rate,Women,PC,71.0
+KOR,Korea,JE_EMPL,Employment rate,Women,PC,57.0
+LUX,Luxembourg,JE_EMPL,Employment rate,Women,PC,64.0
+MEX,Mexico,JE_EMPL,Employment rate,Women,PC,45.0
+NLD,Netherlands,JE_EMPL,Employment rate,Women,PC,74.0
+NZL,New Zealand,JE_EMPL,Employment rate,Women,PC,72.0
+NOR,Norway,JE_EMPL,Employment rate,Women,PC,73.0
+POL,Poland,JE_EMPL,Employment rate,Women,PC,61.0
+PRT,Portugal,JE_EMPL,Employment rate,Women,PC,67.0
+SVK,Slovak Republic,JE_EMPL,Employment rate,Women,PC,62.0
+ESP,Spain,JE_EMPL,Employment rate,Women,PC,57.0
+SWE,Sweden,JE_EMPL,Employment rate,Women,PC,74.0
+CHE,Switzerland,JE_EMPL,Employment rate,Women,PC,76.0
+TUR,Türkiye,JE_EMPL,Employment rate,Women,PC,30.0
+GBR,United Kingdom,JE_EMPL,Employment rate,Women,PC,72.0
+USA,United States,JE_EMPL,Employment rate,Women,PC,62.0
+BRA,Brazil,JE_EMPL,Employment rate,Women,PC,47.0
+CHL,Chile,JE_EMPL,Employment rate,Women,PC,47.0
+EST,Estonia,JE_EMPL,Employment rate,Women,PC,72.0
+ISR,Israel,JE_EMPL,Employment rate,Women,PC,65.0
+LVA,Latvia,JE_EMPL,Employment rate,Women,PC,70.0
+RUS,Russia,JE_EMPL,Employment rate,Women,PC,65.0
+SVN,Slovenia,JE_EMPL,Employment rate,Women,PC,68.0
+ZAF,South Africa,JE_EMPL,Employment rate,Women,PC,33.0
+AUS,Australia,JE_LTUR,Long-term unemployment rate,Total,PC,1.0
+AUT,Austria,JE_LTUR,Long-term unemployment rate,Total,PC,1.3
+BEL,Belgium,JE_LTUR,Long-term unemployment rate,Total,PC,2.3
+CAN,Canada,JE_LTUR,Long-term unemployment rate,Total,PC,0.5
+CZE,Czech Republic,JE_LTUR,Long-term unemployment rate,Total,PC,0.6
+DNK,Denmark,JE_LTUR,Long-term unemployment rate,Total,PC,0.9
+FIN,Finland,JE_LTUR,Long-term unemployment rate,Total,PC,1.2
+FRA,France,JE_LTUR,Long-term unemployment rate,Total,PC,2.9
+DEU,Germany,JE_LTUR,Long-term unemployment rate,Total,PC,1.2
+GRC,Greece,JE_LTUR,Long-term unemployment rate,Total,PC,10.8
+HUN,Hungary,JE_LTUR,Long-term unemployment rate,Total,PC,1.2
+ISL,Iceland,JE_LTUR,Long-term unemployment rate,Total,PC,0.7
+IRL,Ireland,JE_LTUR,Long-term unemployment rate,Total,PC,1.2
+ITA,Italy,JE_LTUR,Long-term unemployment rate,Total,PC,4.8
+JPN,Japan,JE_LTUR,Long-term unemployment rate,Total,PC,0.8
+KOR,Korea,JE_LTUR,Long-term unemployment rate,Total,PC,0.0
+LUX,Luxembourg,JE_LTUR,Long-term unemployment rate,Total,PC,1.7
+MEX,Mexico,JE_LTUR,Long-term unemployment rate,Total,PC,0.1
+NLD,Netherlands,JE_LTUR,Long-term unemployment rate,Total,PC,0.9
+NZL,New Zealand,JE_LTUR,Long-term unemployment rate,Total,PC,0.4
+NOR,Norway,JE_LTUR,Long-term unemployment rate,Total,PC,0.9
+POL,Poland,JE_LTUR,Long-term unemployment rate,Total,PC,0.6
+PRT,Portugal,JE_LTUR,Long-term unemployment rate,Total,PC,2.3
+SVK,Slovak Republic,JE_LTUR,Long-term unemployment rate,Total,PC,3.0
+ESP,Spain,JE_LTUR,Long-term unemployment rate,Total,PC,5.0
+SWE,Sweden,JE_LTUR,Long-term unemployment rate,Total,PC,1.0
+CHE,Switzerland,JE_LTUR,Long-term unemployment rate,Total,PC,1.7
+TUR,Türkiye,JE_LTUR,Long-term unemployment rate,Total,PC,3.3
+GBR,United Kingdom,JE_LTUR,Long-term unemployment rate,Total,PC,0.9
+USA,United States,JE_LTUR,Long-term unemployment rate,Total,PC,0.5
+EST,Estonia,JE_LTUR,Long-term unemployment rate,Total,PC,1.2
+ISR,Israel,JE_LTUR,Long-term unemployment rate,Total,PC,0.2
+LVA,Latvia,JE_LTUR,Long-term unemployment rate,Total,PC,2.2
+RUS,Russia,JE_LTUR,Long-term unemployment rate,Total,PC,1.1
+SVN,Slovenia,JE_LTUR,Long-term unemployment rate,Total,PC,1.9
+ZAF,South Africa,JE_LTUR,Long-term unemployment rate,Total,PC,17.9
+AUS,Australia,JE_LTUR,Long-term unemployment rate,Men,PC,1.0
+AUT,Austria,JE_LTUR,Long-term unemployment rate,Men,PC,1.5
+BEL,Belgium,JE_LTUR,Long-term unemployment rate,Men,PC,2.5
+CAN,Canada,JE_LTUR,Long-term unemployment rate,Men,PC,0.6
+CZE,Czech Republic,JE_LTUR,Long-term unemployment rate,Men,PC,0.5
+DNK,Denmark,JE_LTUR,Long-term unemployment rate,Men,PC,0.7
+FIN,Finland,JE_LTUR,Long-term unemployment rate,Men,PC,1.3
+FRA,France,JE_LTUR,Long-term unemployment rate,Men,PC,3.0
+DEU,Germany,JE_LTUR,Long-term unemployment rate,Men,PC,1.4
+GRC,Greece,JE_LTUR,Long-term unemployment rate,Men,PC,8.8
+HUN,Hungary,JE_LTUR,Long-term unemployment rate,Men,PC,1.2
+ISL,Iceland,JE_LTUR,Long-term unemployment rate,Men,PC,0.8
+IRL,Ireland,JE_LTUR,Long-term unemployment rate,Men,PC,1.3
+ITA,Italy,JE_LTUR,Long-term unemployment rate,Men,PC,4.4
+JPN,Japan,JE_LTUR,Long-term unemployment rate,Men,PC,1.0
+KOR,Korea,JE_LTUR,Long-term unemployment rate,Men,PC,0.0
+LUX,Luxembourg,JE_LTUR,Long-term unemployment rate,Men,PC,1.6
+MEX,Mexico,JE_LTUR,Long-term unemployment rate,Men,PC,0.1
+NLD,Netherlands,JE_LTUR,Long-term unemployment rate,Men,PC,0.9
+NZL,New Zealand,JE_LTUR,Long-term unemployment rate,Men,PC,0.4
+NOR,Norway,JE_LTUR,Long-term unemployment rate,Men,PC,1.0
+POL,Poland,JE_LTUR,Long-term unemployment rate,Men,PC,0.6
+PRT,Portugal,JE_LTUR,Long-term unemployment rate,Men,PC,2.2
+SVK,Slovak Republic,JE_LTUR,Long-term unemployment rate,Men,PC,3.0
+ESP,Spain,JE_LTUR,Long-term unemployment rate,Men,PC,4.1
+SWE,Sweden,JE_LTUR,Long-term unemployment rate,Men,PC,1.0
+CHE,Switzerland,JE_LTUR,Long-term unemployment rate,Men,PC,1.6
+TUR,Türkiye,JE_LTUR,Long-term unemployment rate,Men,PC,2.5
+GBR,United Kingdom,JE_LTUR,Long-term unemployment rate,Men,PC,1.1
+USA,United States,JE_LTUR,Long-term unemployment rate,Men,PC,0.5
+EST,Estonia,JE_LTUR,Long-term unemployment rate,Men,PC,1.3
+ISR,Israel,JE_LTUR,Long-term unemployment rate,Men,PC,0.2
+LVA,Latvia,JE_LTUR,Long-term unemployment rate,Men,PC,2.7
+RUS,Russia,JE_LTUR,Long-term unemployment rate,Men,PC,1.1
+SVN,Slovenia,JE_LTUR,Long-term unemployment rate,Men,PC,1.5
+ZAF,South Africa,JE_LTUR,Long-term unemployment rate,Men,PC,15.7
+AUS,Australia,JE_LTUR,Long-term unemployment rate,Women,PC,1.1
+AUT,Austria,JE_LTUR,Long-term unemployment rate,Women,PC,1.2
+BEL,Belgium,JE_LTUR,Long-term unemployment rate,Women,PC,2.1
+CAN,Canada,JE_LTUR,Long-term unemployment rate,Women,PC,0.4
+CZE,Czech Republic,JE_LTUR,Long-term unemployment rate,Women,PC,0.6
+DNK,Denmark,JE_LTUR,Long-term unemployment rate,Women,PC,1.2
+FIN,Finland,JE_LTUR,Long-term unemployment rate,Women,PC,1.1
+FRA,France,JE_LTUR,Long-term unemployment rate,Women,PC,2.9
+DEU,Germany,JE_LTUR,Long-term unemployment rate,Women,PC,1.0
+GRC,Greece,JE_LTUR,Long-term unemployment rate,Women,PC,13.4
+HUN,Hungary,JE_LTUR,Long-term unemployment rate,Women,PC,1.1
+ISL,Iceland,JE_LTUR,Long-term unemployment rate,Women,PC,0.5
+IRL,Ireland,JE_LTUR,Long-term unemployment rate,Women,PC,1.0
+ITA,Italy,JE_LTUR,Long-term unemployment rate,Women,PC,5.3
+JPN,Japan,JE_LTUR,Long-term unemployment rate,Women,PC,0.5
+KOR,Korea,JE_LTUR,Long-term unemployment rate,Women,PC,0.0
+LUX,Luxembourg,JE_LTUR,Long-term unemployment rate,Women,PC,1.9
+MEX,Mexico,JE_LTUR,Long-term unemployment rate,Women,PC,0.1
+NLD,Netherlands,JE_LTUR,Long-term unemployment rate,Women,PC,1.0
+NZL,New Zealand,JE_LTUR,Long-term unemployment rate,Women,PC,0.4
+NOR,Norway,JE_LTUR,Long-term unemployment rate,Women,PC,0.8
+POL,Poland,JE_LTUR,Long-term unemployment rate,Women,PC,0.7
+PRT,Portugal,JE_LTUR,Long-term unemployment rate,Women,PC,2.4
+SVK,Slovak Republic,JE_LTUR,Long-term unemployment rate,Women,PC,3.0
+ESP,Spain,JE_LTUR,Long-term unemployment rate,Women,PC,6.1
+SWE,Sweden,JE_LTUR,Long-term unemployment rate,Women,PC,1.0
+CHE,Switzerland,JE_LTUR,Long-term unemployment rate,Women,PC,1.8
+TUR,Türkiye,JE_LTUR,Long-term unemployment rate,Women,PC,4.9
+GBR,United Kingdom,JE_LTUR,Long-term unemployment rate,Women,PC,0.7
+USA,United States,JE_LTUR,Long-term unemployment rate,Women,PC,0.4
+EST,Estonia,JE_LTUR,Long-term unemployment rate,Women,PC,1.0
+ISR,Israel,JE_LTUR,Long-term unemployment rate,Women,PC,0.2
+LVA,Latvia,JE_LTUR,Long-term unemployment rate,Women,PC,1.7
+RUS,Russia,JE_LTUR,Long-term unemployment rate,Women,PC,1.1
+SVN,Slovenia,JE_LTUR,Long-term unemployment rate,Women,PC,2.4
+ZAF,South Africa,JE_LTUR,Long-term unemployment rate,Women,PC,20.8
+AUS,Australia,JE_PEARN,Personal earnings,Total,USD,55206.0
+AUT,Austria,JE_PEARN,Personal earnings,Total,USD,53132.0
+BEL,Belgium,JE_PEARN,Personal earnings,Total,USD,54327.0
+CAN,Canada,JE_PEARN,Personal earnings,Total,USD,55342.0
+CZE,Czech Republic,JE_PEARN,Personal earnings,Total,USD,29885.0
+DNK,Denmark,JE_PEARN,Personal earnings,Total,USD,58430.0
+FIN,Finland,JE_PEARN,Personal earnings,Total,USD,46230.0
+FRA,France,JE_PEARN,Personal earnings,Total,USD,45581.0
+DEU,Germany,JE_PEARN,Personal earnings,Total,USD,53745.0
+GRC,Greece,JE_PEARN,Personal earnings,Total,USD,27207.0
+HUN,Hungary,JE_PEARN,Personal earnings,Total,USD,25409.0
+ISL,Iceland,JE_PEARN,Personal earnings,Total,USD,67488.0
+IRL,Ireland,JE_PEARN,Personal earnings,Total,USD,49474.0
+ITA,Italy,JE_PEARN,Personal earnings,Total,USD,37769.0
+JPN,Japan,JE_PEARN,Personal earnings,Total,USD,38515.0
+KOR,Korea,JE_PEARN,Personal earnings,Total,USD,41960.0
+LUX,Luxembourg,JE_PEARN,Personal earnings,Total,USD,65854.0
+MEX,Mexico,JE_PEARN,Personal earnings,Total,USD,16230.0
+NLD,Netherlands,JE_PEARN,Personal earnings,Total,USD,58828.0
+NZL,New Zealand,JE_PEARN,Personal earnings,Total,USD,45269.0
+NOR,Norway,JE_PEARN,Personal earnings,Total,USD,55780.0
+POL,Poland,JE_PEARN,Personal earnings,Total,USD,32527.0
+PRT,Portugal,JE_PEARN,Personal earnings,Total,USD,28410.0
+SVK,Slovak Republic,JE_PEARN,Personal earnings,Total,USD,23619.0
+ESP,Spain,JE_PEARN,Personal earnings,Total,USD,37922.0
+SWE,Sweden,JE_PEARN,Personal earnings,Total,USD,47020.0
+CHE,Switzerland,JE_PEARN,Personal earnings,Total,USD,64824.0
+GBR,United Kingdom,JE_PEARN,Personal earnings,Total,USD,47147.0
+USA,United States,JE_PEARN,Personal earnings,Total,USD,69392.0
+CHL,Chile,JE_PEARN,Personal earnings,Total,USD,26729.0
+EST,Estonia,JE_PEARN,Personal earnings,Total,USD,30720.0
+ISR,Israel,JE_PEARN,Personal earnings,Total,USD,39322.0
+LVA,Latvia,JE_PEARN,Personal earnings,Total,USD,29876.0
+SVN,Slovenia,JE_PEARN,Personal earnings,Total,USD,41445.0
+AUS,Australia,SC_SNTWS,Quality of support network,Total,PC,93.0
+AUT,Austria,SC_SNTWS,Quality of support network,Total,PC,92.0
+BEL,Belgium,SC_SNTWS,Quality of support network,Total,PC,90.0
+CAN,Canada,SC_SNTWS,Quality of support network,Total,PC,93.0
+CZE,Czech Republic,SC_SNTWS,Quality of support network,Total,PC,96.0
+DNK,Denmark,SC_SNTWS,Quality of support network,Total,PC,95.0
+FIN,Finland,SC_SNTWS,Quality of support network,Total,PC,96.0
+FRA,France,SC_SNTWS,Quality of support network,Total,PC,94.0
+DEU,Germany,SC_SNTWS,Quality of support network,Total,PC,90.0
+GRC,Greece,SC_SNTWS,Quality of support network,Total,PC,78.0
+HUN,Hungary,SC_SNTWS,Quality of support network,Total,PC,94.0
+ISL,Iceland,SC_SNTWS,Quality of support network,Total,PC,98.0
+IRL,Ireland,SC_SNTWS,Quality of support network,Total,PC,96.0
+ITA,Italy,SC_SNTWS,Quality of support network,Total,PC,89.0
+JPN,Japan,SC_SNTWS,Quality of support network,Total,PC,89.0
+KOR,Korea,SC_SNTWS,Quality of support network,Total,PC,80.0
+LUX,Luxembourg,SC_SNTWS,Quality of support network,Total,PC,91.0
+MEX,Mexico,SC_SNTWS,Quality of support network,Total,PC,77.0
+NLD,Netherlands,SC_SNTWS,Quality of support network,Total,PC,94.0
+NZL,New Zealand,SC_SNTWS,Quality of support network,Total,PC,95.0
+NOR,Norway,SC_SNTWS,Quality of support network,Total,PC,96.0
+POL,Poland,SC_SNTWS,Quality of support network,Total,PC,94.0
+PRT,Portugal,SC_SNTWS,Quality of support network,Total,PC,87.0
+SVK,Slovak Republic,SC_SNTWS,Quality of support network,Total,PC,95.0
+ESP,Spain,SC_SNTWS,Quality of support network,Total,PC,93.0
+SWE,Sweden,SC_SNTWS,Quality of support network,Total,PC,94.0
+CHE,Switzerland,SC_SNTWS,Quality of support network,Total,PC,94.0
+TUR,Türkiye,SC_SNTWS,Quality of support network,Total,PC,85.0
+GBR,United Kingdom,SC_SNTWS,Quality of support network,Total,PC,93.0
+USA,United States,SC_SNTWS,Quality of support network,Total,PC,94.0
+BRA,Brazil,SC_SNTWS,Quality of support network,Total,PC,83.0
+CHL,Chile,SC_SNTWS,Quality of support network,Total,PC,88.0
+EST,Estonia,SC_SNTWS,Quality of support network,Total,PC,95.0
+ISR,Israel,SC_SNTWS,Quality of support network,Total,PC,95.0
+LVA,Latvia,SC_SNTWS,Quality of support network,Total,PC,92.0
+RUS,Russia,SC_SNTWS,Quality of support network,Total,PC,89.0
+SVN,Slovenia,SC_SNTWS,Quality of support network,Total,PC,95.0
+ZAF,South Africa,SC_SNTWS,Quality of support network,Total,PC,89.0
+AUS,Australia,SC_SNTWS,Quality of support network,Men,PC,93.0
+AUT,Austria,SC_SNTWS,Quality of support network,Men,PC,92.0
+BEL,Belgium,SC_SNTWS,Quality of support network,Men,PC,92.0
+CAN,Canada,SC_SNTWS,Quality of support network,Men,PC,93.0
+CZE,Czech Republic,SC_SNTWS,Quality of support network,Men,PC,95.0
+DNK,Denmark,SC_SNTWS,Quality of support network,Men,PC,93.0
+FIN,Finland,SC_SNTWS,Quality of support network,Men,PC,94.0
+FRA,France,SC_SNTWS,Quality of support network,Men,PC,92.0
+DEU,Germany,SC_SNTWS,Quality of support network,Men,PC,91.0
+GRC,Greece,SC_SNTWS,Quality of support network,Men,PC,77.0
+HUN,Hungary,SC_SNTWS,Quality of support network,Men,PC,92.0
+ISL,Iceland,SC_SNTWS,Quality of support network,Men,PC,99.0
+IRL,Ireland,SC_SNTWS,Quality of support network,Men,PC,96.0
+ITA,Italy,SC_SNTWS,Quality of support network,Men,PC,92.0
+JPN,Japan,SC_SNTWS,Quality of support network,Men,PC,84.0
+KOR,Korea,SC_SNTWS,Quality of support network,Men,PC,74.0
+LUX,Luxembourg,SC_SNTWS,Quality of support network,Men,PC,91.0
+MEX,Mexico,SC_SNTWS,Quality of support network,Men,PC,77.0
+NLD,Netherlands,SC_SNTWS,Quality of support network,Men,PC,96.0
+NZL,New Zealand,SC_SNTWS,Quality of support network,Men,PC,95.0
+NOR,Norway,SC_SNTWS,Quality of support network,Men,PC,96.0
+POL,Poland,SC_SNTWS,Quality of support network,Men,PC,93.0
+PRT,Portugal,SC_SNTWS,Quality of support network,Men,PC,88.0
+SVK,Slovak Republic,SC_SNTWS,Quality of support network,Men,PC,94.0
+ESP,Spain,SC_SNTWS,Quality of support network,Men,PC,93.0
+SWE,Sweden,SC_SNTWS,Quality of support network,Men,PC,94.0
+CHE,Switzerland,SC_SNTWS,Quality of support network,Men,PC,93.0
+TUR,Türkiye,SC_SNTWS,Quality of support network,Men,PC,82.0
+GBR,United Kingdom,SC_SNTWS,Quality of support network,Men,PC,89.0
+USA,United States,SC_SNTWS,Quality of support network,Men,PC,93.0
+BRA,Brazil,SC_SNTWS,Quality of support network,Men,PC,86.0
+CHL,Chile,SC_SNTWS,Quality of support network,Men,PC,88.0
+EST,Estonia,SC_SNTWS,Quality of support network,Men,PC,93.0
+ISR,Israel,SC_SNTWS,Quality of support network,Men,PC,95.0
+LVA,Latvia,SC_SNTWS,Quality of support network,Men,PC,89.0
+RUS,Russia,SC_SNTWS,Quality of support network,Men,PC,88.0
+SVN,Slovenia,SC_SNTWS,Quality of support network,Men,PC,95.0
+ZAF,South Africa,SC_SNTWS,Quality of support network,Men,PC,89.0
+AUS,Australia,SC_SNTWS,Quality of support network,Women,PC,94.0
+AUT,Austria,SC_SNTWS,Quality of support network,Women,PC,93.0
+BEL,Belgium,SC_SNTWS,Quality of support network,Women,PC,87.0
+CAN,Canada,SC_SNTWS,Quality of support network,Women,PC,93.0
+CZE,Czech Republic,SC_SNTWS,Quality of support network,Women,PC,97.0
+DNK,Denmark,SC_SNTWS,Quality of support network,Women,PC,97.0
+FIN,Finland,SC_SNTWS,Quality of support network,Women,PC,98.0
+FRA,France,SC_SNTWS,Quality of support network,Women,PC,96.0
+DEU,Germany,SC_SNTWS,Quality of support network,Women,PC,89.0
+GRC,Greece,SC_SNTWS,Quality of support network,Women,PC,79.0
+HUN,Hungary,SC_SNTWS,Quality of support network,Women,PC,96.0
+ISL,Iceland,SC_SNTWS,Quality of support network,Women,PC,98.0
+IRL,Ireland,SC_SNTWS,Quality of support network,Women,PC,96.0
+ITA,Italy,SC_SNTWS,Quality of support network,Women,PC,86.0
+JPN,Japan,SC_SNTWS,Quality of support network,Women,PC,93.0
+KOR,Korea,SC_SNTWS,Quality of support network,Women,PC,86.0
+LUX,Luxembourg,SC_SNTWS,Quality of support network,Women,PC,91.0
+MEX,Mexico,SC_SNTWS,Quality of support network,Women,PC,76.0
+NLD,Netherlands,SC_SNTWS,Quality of support network,Women,PC,92.0
+NZL,New Zealand,SC_SNTWS,Quality of support network,Women,PC,95.0
+NOR,Norway,SC_SNTWS,Quality of support network,Women,PC,96.0
+POL,Poland,SC_SNTWS,Quality of support network,Women,PC,95.0
+PRT,Portugal,SC_SNTWS,Quality of support network,Women,PC,86.0
+SVK,Slovak Republic,SC_SNTWS,Quality of support network,Women,PC,95.0
+ESP,Spain,SC_SNTWS,Quality of support network,Women,PC,94.0
+SWE,Sweden,SC_SNTWS,Quality of support network,Women,PC,93.0
+CHE,Switzerland,SC_SNTWS,Quality of support network,Women,PC,95.0
+TUR,Türkiye,SC_SNTWS,Quality of support network,Women,PC,88.0
+GBR,United Kingdom,SC_SNTWS,Quality of support network,Women,PC,96.0
+USA,United States,SC_SNTWS,Quality of support network,Women,PC,94.0
+BRA,Brazil,SC_SNTWS,Quality of support network,Women,PC,80.0
+CHL,Chile,SC_SNTWS,Quality of support network,Women,PC,88.0
+EST,Estonia,SC_SNTWS,Quality of support network,Women,PC,97.0
+ISR,Israel,SC_SNTWS,Quality of support network,Women,PC,96.0
+LVA,Latvia,SC_SNTWS,Quality of support network,Women,PC,94.0
+RUS,Russia,SC_SNTWS,Quality of support network,Women,PC,89.0
+SVN,Slovenia,SC_SNTWS,Quality of support network,Women,PC,95.0
+ZAF,South Africa,SC_SNTWS,Quality of support network,Women,PC,89.0
+AUS,Australia,SC_SNTWS,Quality of support network,High,PC,96.0
+AUT,Austria,SC_SNTWS,Quality of support network,High,PC,96.0
+BEL,Belgium,SC_SNTWS,Quality of support network,High,PC,94.0
+CAN,Canada,SC_SNTWS,Quality of support network,High,PC,94.0
+CZE,Czech Republic,SC_SNTWS,Quality of support network,High,PC,99.0
+DNK,Denmark,SC_SNTWS,Quality of support network,High,PC,95.0
+FIN,Finland,SC_SNTWS,Quality of support network,High,PC,100.0
+FRA,France,SC_SNTWS,Quality of support network,High,PC,97.0
+DEU,Germany,SC_SNTWS,Quality of support network,High,PC,91.0
+GRC,Greece,SC_SNTWS,Quality of support network,High,PC,86.0
+HUN,Hungary,SC_SNTWS,Quality of support network,High,PC,95.0
+ISL,Iceland,SC_SNTWS,Quality of support network,High,PC,99.0
+IRL,Ireland,SC_SNTWS,Quality of support network,High,PC,96.0
+ITA,Italy,SC_SNTWS,Quality of support network,High,PC,90.0
+JPN,Japan,SC_SNTWS,Quality of support network,High,PC,90.0
+KOR,Korea,SC_SNTWS,Quality of support network,High,PC,86.0
+LUX,Luxembourg,SC_SNTWS,Quality of support network,High,PC,92.0
+MEX,Mexico,SC_SNTWS,Quality of support network,High,PC,86.0
+NLD,Netherlands,SC_SNTWS,Quality of support network,High,PC,97.0
+NZL,New Zealand,SC_SNTWS,Quality of support network,High,PC,93.0
+NOR,Norway,SC_SNTWS,Quality of support network,High,PC,98.0
+POL,Poland,SC_SNTWS,Quality of support network,High,PC,98.0
+PRT,Portugal,SC_SNTWS,Quality of support network,High,PC,95.0
+SVK,Slovak Republic,SC_SNTWS,Quality of support network,High,PC,97.0
+ESP,Spain,SC_SNTWS,Quality of support network,High,PC,97.0
+SWE,Sweden,SC_SNTWS,Quality of support network,High,PC,96.0
+CHE,Switzerland,SC_SNTWS,Quality of support network,High,PC,95.0
+TUR,Türkiye,SC_SNTWS,Quality of support network,High,PC,93.0
+GBR,United Kingdom,SC_SNTWS,Quality of support network,High,PC,93.0
+USA,United States,SC_SNTWS,Quality of support network,High,PC,96.0
+BRA,Brazil,SC_SNTWS,Quality of support network,High,PC,90.0
+CHL,Chile,SC_SNTWS,Quality of support network,High,PC,94.0
+EST,Estonia,SC_SNTWS,Quality of support network,High,PC,96.0
+ISR,Israel,SC_SNTWS,Quality of support network,High,PC,96.0
+LVA,Latvia,SC_SNTWS,Quality of support network,High,PC,97.0
+RUS,Russia,SC_SNTWS,Quality of support network,High,PC,93.0
+ZAF,South Africa,SC_SNTWS,Quality of support network,High,PC,94.0
+AUS,Australia,SC_SNTWS,Quality of support network,Low,PC,93.0
+AUT,Austria,SC_SNTWS,Quality of support network,Low,PC,92.0
+BEL,Belgium,SC_SNTWS,Quality of support network,Low,PC,88.0
+CAN,Canada,SC_SNTWS,Quality of support network,Low,PC,93.0
+CZE,Czech Republic,SC_SNTWS,Quality of support network,Low,PC,96.0
+DNK,Denmark,SC_SNTWS,Quality of support network,Low,PC,95.0
+FIN,Finland,SC_SNTWS,Quality of support network,Low,PC,97.0
+FRA,France,SC_SNTWS,Quality of support network,Low,PC,95.0
+DEU,Germany,SC_SNTWS,Quality of support network,Low,PC,90.0
+GRC,Greece,SC_SNTWS,Quality of support network,Low,PC,77.0
+HUN,Hungary,SC_SNTWS,Quality of support network,Low,PC,96.0
+IRL,Ireland,SC_SNTWS,Quality of support network,Low,PC,97.0
+ITA,Italy,SC_SNTWS,Quality of support network,Low,PC,91.0
+JPN,Japan,SC_SNTWS,Quality of support network,Low,PC,90.0
+KOR,Korea,SC_SNTWS,Quality of support network,Low,PC,78.0
+LUX,Luxembourg,SC_SNTWS,Quality of support network,Low,PC,91.0
+MEX,Mexico,SC_SNTWS,Quality of support network,Low,PC,81.0
+NLD,Netherlands,SC_SNTWS,Quality of support network,Low,PC,93.0
+NZL,New Zealand,SC_SNTWS,Quality of support network,Low,PC,96.0
+NOR,Norway,SC_SNTWS,Quality of support network,Low,PC,94.0
+POL,Poland,SC_SNTWS,Quality of support network,Low,PC,93.0
+PRT,Portugal,SC_SNTWS,Quality of support network,Low,PC,92.0
+SVK,Slovak Republic,SC_SNTWS,Quality of support network,Low,PC,95.0
+ESP,Spain,SC_SNTWS,Quality of support network,Low,PC,93.0
+SWE,Sweden,SC_SNTWS,Quality of support network,Low,PC,93.0
+CHE,Switzerland,SC_SNTWS,Quality of support network,Low,PC,94.0
+TUR,Türkiye,SC_SNTWS,Quality of support network,Low,PC,84.0
+GBR,United Kingdom,SC_SNTWS,Quality of support network,Low,PC,93.0
+USA,United States,SC_SNTWS,Quality of support network,Low,PC,93.0
+BRA,Brazil,SC_SNTWS,Quality of support network,Low,PC,86.0
+CHL,Chile,SC_SNTWS,Quality of support network,Low,PC,88.0
+EST,Estonia,SC_SNTWS,Quality of support network,Low,PC,93.0
+ISR,Israel,SC_SNTWS,Quality of support network,Low,PC,95.0
+LVA,Latvia,SC_SNTWS,Quality of support network,Low,PC,91.0
+RUS,Russia,SC_SNTWS,Quality of support network,Low,PC,89.0
+SVN,Slovenia,SC_SNTWS,Quality of support network,Low,PC,95.0
+ZAF,South Africa,SC_SNTWS,Quality of support network,Low,PC,90.0
+AUS,Australia,ES_EDUA,Educational attainment,Total,PC,84.0
+AUT,Austria,ES_EDUA,Educational attainment,Total,PC,86.0
+BEL,Belgium,ES_EDUA,Educational attainment,Total,PC,80.0
+CAN,Canada,ES_EDUA,Educational attainment,Total,PC,92.0
+CZE,Czech Republic,ES_EDUA,Educational attainment,Total,PC,94.0
+DNK,Denmark,ES_EDUA,Educational attainment,Total,PC,82.0
+FIN,Finland,ES_EDUA,Educational attainment,Total,PC,91.0
+FRA,France,ES_EDUA,Educational attainment,Total,PC,81.0
+DEU,Germany,ES_EDUA,Educational attainment,Total,PC,86.0
+GRC,Greece,ES_EDUA,Educational attainment,Total,PC,76.0
+HUN,Hungary,ES_EDUA,Educational attainment,Total,PC,86.0
+ISL,Iceland,ES_EDUA,Educational attainment,Total,PC,76.0
+IRL,Ireland,ES_EDUA,Educational attainment,Total,PC,85.0
+ITA,Italy,ES_EDUA,Educational attainment,Total,PC,63.0
+KOR,Korea,ES_EDUA,Educational attainment,Total,PC,89.0
+LUX,Luxembourg,ES_EDUA,Educational attainment,Total,PC,74.0
+MEX,Mexico,ES_EDUA,Educational attainment,Total,PC,42.0
+NLD,Netherlands,ES_EDUA,Educational attainment,Total,PC,81.0
+NZL,New Zealand,ES_EDUA,Educational attainment,Total,PC,81.0
+NOR,Norway,ES_EDUA,Educational attainment,Total,PC,82.0
+POL,Poland,ES_EDUA,Educational attainment,Total,PC,93.0
+PRT,Portugal,ES_EDUA,Educational attainment,Total,PC,55.0
+SVK,Slovak Republic,ES_EDUA,Educational attainment,Total,PC,92.0
+ESP,Spain,ES_EDUA,Educational attainment,Total,PC,63.0
+SWE,Sweden,ES_EDUA,Educational attainment,Total,PC,84.0
+CHE,Switzerland,ES_EDUA,Educational attainment,Total,PC,89.0
+TUR,Türkiye,ES_EDUA,Educational attainment,Total,PC,42.0
+GBR,United Kingdom,ES_EDUA,Educational attainment,Total,PC,82.0
+USA,United States,ES_EDUA,Educational attainment,Total,PC,92.0
+BRA,Brazil,ES_EDUA,Educational attainment,Total,PC,57.0
+CHL,Chile,ES_EDUA,Educational attainment,Total,PC,67.0
+EST,Estonia,ES_EDUA,Educational attainment,Total,PC,91.0
+ISR,Israel,ES_EDUA,Educational attainment,Total,PC,88.0
+LVA,Latvia,ES_EDUA,Educational attainment,Total,PC,89.0
+RUS,Russia,ES_EDUA,Educational attainment,Total,PC,95.0
+SVN,Slovenia,ES_EDUA,Educational attainment,Total,PC,90.0
+ZAF,South Africa,ES_EDUA,Educational attainment,Total,PC,48.0
+AUS,Australia,ES_EDUA,Educational attainment,Men,PC,84.0
+AUT,Austria,ES_EDUA,Educational attainment,Men,PC,88.0
+BEL,Belgium,ES_EDUA,Educational attainment,Men,PC,78.0
+CAN,Canada,ES_EDUA,Educational attainment,Men,PC,91.0
+CZE,Czech Republic,ES_EDUA,Educational attainment,Men,PC,95.0
+DNK,Denmark,ES_EDUA,Educational attainment,Men,PC,80.0
+FIN,Finland,ES_EDUA,Educational attainment,Men,PC,89.0
+FRA,France,ES_EDUA,Educational attainment,Men,PC,81.0
+DEU,Germany,ES_EDUA,Educational attainment,Men,PC,87.0
+GRC,Greece,ES_EDUA,Educational attainment,Men,PC,75.0
+HUN,Hungary,ES_EDUA,Educational attainment,Men,PC,87.0
+ISL,Iceland,ES_EDUA,Educational attainment,Men,PC,74.0
+IRL,Ireland,ES_EDUA,Educational attainment,Men,PC,83.0
+ITA,Italy,ES_EDUA,Educational attainment,Men,PC,61.0
+KOR,Korea,ES_EDUA,Educational attainment,Men,PC,92.0
+LUX,Luxembourg,ES_EDUA,Educational attainment,Men,PC,74.0
+MEX,Mexico,ES_EDUA,Educational attainment,Men,PC,42.0
+NLD,Netherlands,ES_EDUA,Educational attainment,Men,PC,81.0
+NZL,New Zealand,ES_EDUA,Educational attainment,Men,PC,80.0
+NOR,Norway,ES_EDUA,Educational attainment,Men,PC,82.0
+POL,Poland,ES_EDUA,Educational attainment,Men,PC,93.0
+PRT,Portugal,ES_EDUA,Educational attainment,Men,PC,52.0
+SVK,Slovak Republic,ES_EDUA,Educational attainment,Men,PC,93.0
+ESP,Spain,ES_EDUA,Educational attainment,Men,PC,60.0
+SWE,Sweden,ES_EDUA,Educational attainment,Men,PC,83.0
+CHE,Switzerland,ES_EDUA,Educational attainment,Men,PC,90.0
+TUR,Türkiye,ES_EDUA,Educational attainment,Men,PC,45.0
+GBR,United Kingdom,ES_EDUA,Educational attainment,Men,PC,81.0
+USA,United States,ES_EDUA,Educational attainment,Men,PC,91.0
+BRA,Brazil,ES_EDUA,Educational attainment,Men,PC,53.0
+CHL,Chile,ES_EDUA,Educational attainment,Men,PC,67.0
+EST,Estonia,ES_EDUA,Educational attainment,Men,PC,87.0
+ISR,Israel,ES_EDUA,Educational attainment,Men,PC,87.0
+LVA,Latvia,ES_EDUA,Educational attainment,Men,PC,86.0
+RUS,Russia,ES_EDUA,Educational attainment,Men,PC,94.0
+SVN,Slovenia,ES_EDUA,Educational attainment,Men,PC,91.0
+ZAF,South Africa,ES_EDUA,Educational attainment,Men,PC,48.0
+AUS,Australia,ES_EDUA,Educational attainment,Women,PC,84.0
+AUT,Austria,ES_EDUA,Educational attainment,Women,PC,83.0
+BEL,Belgium,ES_EDUA,Educational attainment,Women,PC,81.0
+CAN,Canada,ES_EDUA,Educational attainment,Women,PC,94.0
+CZE,Czech Republic,ES_EDUA,Educational attainment,Women,PC,93.0
+DNK,Denmark,ES_EDUA,Educational attainment,Women,PC,83.0
+FIN,Finland,ES_EDUA,Educational attainment,Women,PC,94.0
+FRA,France,ES_EDUA,Educational attainment,Women,PC,82.0
+DEU,Germany,ES_EDUA,Educational attainment,Women,PC,86.0
+GRC,Greece,ES_EDUA,Educational attainment,Women,PC,78.0
+HUN,Hungary,ES_EDUA,Educational attainment,Women,PC,84.0
+ISL,Iceland,ES_EDUA,Educational attainment,Women,PC,78.0
+IRL,Ireland,ES_EDUA,Educational attainment,Women,PC,88.0
+ITA,Italy,ES_EDUA,Educational attainment,Women,PC,65.0
+KOR,Korea,ES_EDUA,Educational attainment,Women,PC,87.0
+LUX,Luxembourg,ES_EDUA,Educational attainment,Women,PC,74.0
+MEX,Mexico,ES_EDUA,Educational attainment,Women,PC,41.0
+NLD,Netherlands,ES_EDUA,Educational attainment,Women,PC,81.0
+NZL,New Zealand,ES_EDUA,Educational attainment,Women,PC,82.0
+NOR,Norway,ES_EDUA,Educational attainment,Women,PC,83.0
+POL,Poland,ES_EDUA,Educational attainment,Women,PC,94.0
+PRT,Portugal,ES_EDUA,Educational attainment,Women,PC,59.0
+SVK,Slovak Republic,ES_EDUA,Educational attainment,Women,PC,92.0
+ESP,Spain,ES_EDUA,Educational attainment,Women,PC,66.0
+SWE,Sweden,ES_EDUA,Educational attainment,Women,PC,85.0
+CHE,Switzerland,ES_EDUA,Educational attainment,Women,PC,88.0
+TUR,Türkiye,ES_EDUA,Educational attainment,Women,PC,38.0
+GBR,United Kingdom,ES_EDUA,Educational attainment,Women,PC,83.0
+USA,United States,ES_EDUA,Educational attainment,Women,PC,92.0
+BRA,Brazil,ES_EDUA,Educational attainment,Women,PC,60.0
+CHL,Chile,ES_EDUA,Educational attainment,Women,PC,68.0
+EST,Estonia,ES_EDUA,Educational attainment,Women,PC,94.0
+ISR,Israel,ES_EDUA,Educational attainment,Women,PC,89.0
+LVA,Latvia,ES_EDUA,Educational attainment,Women,PC,93.0
+RUS,Russia,ES_EDUA,Educational attainment,Women,PC,96.0
+SVN,Slovenia,ES_EDUA,Educational attainment,Women,PC,89.0
+ZAF,South Africa,ES_EDUA,Educational attainment,Women,PC,48.0
+AUS,Australia,ES_STCS,Student skills,Total,AVSCORE,499.0
+AUT,Austria,ES_STCS,Student skills,Total,AVSCORE,491.0
+BEL,Belgium,ES_STCS,Student skills,Total,AVSCORE,500.0
+CAN,Canada,ES_STCS,Student skills,Total,AVSCORE,517.0
+CZE,Czech Republic,ES_STCS,Student skills,Total,AVSCORE,495.0
+DNK,Denmark,ES_STCS,Student skills,Total,AVSCORE,501.0
+FIN,Finland,ES_STCS,Student skills,Total,AVSCORE,516.0
+FRA,France,ES_STCS,Student skills,Total,AVSCORE,494.0
+DEU,Germany,ES_STCS,Student skills,Total,AVSCORE,500.0
+GRC,Greece,ES_STCS,Student skills,Total,AVSCORE,453.0
+HUN,Hungary,ES_STCS,Student skills,Total,AVSCORE,479.0
+ISL,Iceland,ES_STCS,Student skills,Total,AVSCORE,481.0
+IRL,Ireland,ES_STCS,Student skills,Total,AVSCORE,505.0
+ITA,Italy,ES_STCS,Student skills,Total,AVSCORE,477.0
+JPN,Japan,ES_STCS,Student skills,Total,AVSCORE,520.0
+KOR,Korea,ES_STCS,Student skills,Total,AVSCORE,520.0
+LUX,Luxembourg,ES_STCS,Student skills,Total,AVSCORE,477.0
+MEX,Mexico,ES_STCS,Student skills,Total,AVSCORE,416.0
+NLD,Netherlands,ES_STCS,Student skills,Total,AVSCORE,502.0
+NZL,New Zealand,ES_STCS,Student skills,Total,AVSCORE,503.0
+NOR,Norway,ES_STCS,Student skills,Total,AVSCORE,497.0
+POL,Poland,ES_STCS,Student skills,Total,AVSCORE,513.0
+PRT,Portugal,ES_STCS,Student skills,Total,AVSCORE,492.0
+SVK,Slovak Republic,ES_STCS,Student skills,Total,AVSCORE,469.0
+SWE,Sweden,ES_STCS,Student skills,Total,AVSCORE,503.0
+CHE,Switzerland,ES_STCS,Student skills,Total,AVSCORE,498.0
+TUR,Türkiye,ES_STCS,Student skills,Total,AVSCORE,462.0
+GBR,United Kingdom,ES_STCS,Student skills,Total,AVSCORE,503.0
+USA,United States,ES_STCS,Student skills,Total,AVSCORE,495.0
+BRA,Brazil,ES_STCS,Student skills,Total,AVSCORE,400.0
+CHL,Chile,ES_STCS,Student skills,Total,AVSCORE,438.0
+EST,Estonia,ES_STCS,Student skills,Total,AVSCORE,526.0
+ISR,Israel,ES_STCS,Student skills,Total,AVSCORE,465.0
+LVA,Latvia,ES_STCS,Student skills,Total,AVSCORE,487.0
+RUS,Russia,ES_STCS,Student skills,Total,AVSCORE,481.0
+SVN,Slovenia,ES_STCS,Student skills,Total,AVSCORE,504.0
+AUS,Australia,ES_STCS,Student skills,Men,AVSCORE,495.0
+AUT,Austria,ES_STCS,Student skills,Men,AVSCORE,489.0
+BEL,Belgium,ES_STCS,Student skills,Men,AVSCORE,499.0
+CAN,Canada,ES_STCS,Student skills,Men,AVSCORE,512.0
+CZE,Czech Republic,ES_STCS,Student skills,Men,AVSCORE,490.0
+DNK,Denmark,ES_STCS,Student skills,Men,AVSCORE,496.0
+FIN,Finland,ES_STCS,Student skills,Men,AVSCORE,503.0
+FRA,France,ES_STCS,Student skills,Men,AVSCORE,490.0
+DEU,Germany,ES_STCS,Student skills,Men,AVSCORE,497.0
+GRC,Greece,ES_STCS,Student skills,Men,AVSCORE,445.0
+HUN,Hungary,ES_STCS,Student skills,Men,AVSCORE,477.0
+ISL,Iceland,ES_STCS,Student skills,Men,AVSCORE,472.0
+IRL,Ireland,ES_STCS,Student skills,Men,AVSCORE,501.0
+ITA,Italy,ES_STCS,Student skills,Men,AVSCORE,476.0
+JPN,Japan,ES_STCS,Student skills,Men,AVSCORE,519.0
+KOR,Korea,ES_STCS,Student skills,Men,AVSCORE,517.0
+LUX,Luxembourg,ES_STCS,Student skills,Men,AVSCORE,472.0
+MEX,Mexico,ES_STCS,Student skills,Men,AVSCORE,418.0
+NLD,Netherlands,ES_STCS,Student skills,Men,AVSCORE,497.0
+NZL,New Zealand,ES_STCS,Student skills,Men,AVSCORE,500.0
+NOR,Norway,ES_STCS,Student skills,Men,AVSCORE,486.0
+POL,Poland,ES_STCS,Student skills,Men,AVSCORE,508.0
+PRT,Portugal,ES_STCS,Student skills,Men,AVSCORE,490.0
+SVK,Slovak Republic,ES_STCS,Student skills,Men,AVSCORE,463.0
+SWE,Sweden,ES_STCS,Student skills,Men,AVSCORE,495.0
+CHE,Switzerland,ES_STCS,Student skills,Men,AVSCORE,494.0
+TUR,Türkiye,ES_STCS,Student skills,Men,AVSCORE,458.0
+GBR,United Kingdom,ES_STCS,Student skills,Men,AVSCORE,503.0
+USA,United States,ES_STCS,Student skills,Men,AVSCORE,493.0
+BRA,Brazil,ES_STCS,Student skills,Men,AVSCORE,397.0
+CHL,Chile,ES_STCS,Student skills,Men,AVSCORE,436.0
+EST,Estonia,ES_STCS,Student skills,Men,AVSCORE,521.0
+ISR,Israel,ES_STCS,Student skills,Men,AVSCORE,452.0
+LVA,Latvia,ES_STCS,Student skills,Men,AVSCORE,482.0
+RUS,Russia,ES_STCS,Student skills,Men,AVSCORE,478.0
+SVN,Slovenia,ES_STCS,Student skills,Men,AVSCORE,495.0
+AUS,Australia,ES_STCS,Student skills,Women,AVSCORE,503.0
+AUT,Austria,ES_STCS,Student skills,Women,AVSCORE,493.0
+BEL,Belgium,ES_STCS,Student skills,Women,AVSCORE,501.0
+CAN,Canada,ES_STCS,Student skills,Women,AVSCORE,521.0
+CZE,Czech Republic,ES_STCS,Student skills,Women,AVSCORE,501.0
+DNK,Denmark,ES_STCS,Student skills,Women,AVSCORE,506.0
+FIN,Finland,ES_STCS,Student skills,Women,AVSCORE,530.0
+FRA,France,ES_STCS,Student skills,Women,AVSCORE,497.0
+DEU,Germany,ES_STCS,Student skills,Women,AVSCORE,504.0
+GRC,Greece,ES_STCS,Student skills,Women,AVSCORE,462.0
+HUN,Hungary,ES_STCS,Student skills,Women,AVSCORE,481.0
+ISL,Iceland,ES_STCS,Student skills,Women,AVSCORE,491.0
+IRL,Ireland,ES_STCS,Student skills,Women,AVSCORE,508.0
+ITA,Italy,ES_STCS,Student skills,Women,AVSCORE,478.0
+JPN,Japan,ES_STCS,Student skills,Women,AVSCORE,521.0
+KOR,Korea,ES_STCS,Student skills,Women,AVSCORE,522.0
+LUX,Luxembourg,ES_STCS,Student skills,Women,AVSCORE,481.0
+MEX,Mexico,ES_STCS,Student skills,Women,AVSCORE,415.0
+NLD,Netherlands,ES_STCS,Student skills,Women,AVSCORE,508.0
+NZL,New Zealand,ES_STCS,Student skills,Women,AVSCORE,506.0
+NOR,Norway,ES_STCS,Student skills,Women,AVSCORE,508.0
+POL,Poland,ES_STCS,Student skills,Women,AVSCORE,518.0
+PRT,Portugal,ES_STCS,Student skills,Women,AVSCORE,494.0
+SVK,Slovak Republic,ES_STCS,Student skills,Women,AVSCORE,475.0
+SWE,Sweden,ES_STCS,Student skills,Women,AVSCORE,510.0
+CHE,Switzerland,ES_STCS,Student skills,Women,AVSCORE,502.0
+TUR,Türkiye,ES_STCS,Student skills,Women,AVSCORE,467.0
+GBR,United Kingdom,ES_STCS,Student skills,Women,AVSCORE,504.0
+USA,United States,ES_STCS,Student skills,Women,AVSCORE,498.0
+BRA,Brazil,ES_STCS,Student skills,Women,AVSCORE,403.0
+CHL,Chile,ES_STCS,Student skills,Women,AVSCORE,439.0
+EST,Estonia,ES_STCS,Student skills,Women,AVSCORE,530.0
+ISR,Israel,ES_STCS,Student skills,Women,AVSCORE,477.0
+LVA,Latvia,ES_STCS,Student skills,Women,AVSCORE,493.0
+RUS,Russia,ES_STCS,Student skills,Women,AVSCORE,485.0
+SVN,Slovenia,ES_STCS,Student skills,Women,AVSCORE,512.0
+AUS,Australia,ES_STCS,Student skills,High,AVSCORE,549.0
+AUT,Austria,ES_STCS,Student skills,High,AVSCORE,533.0
+BEL,Belgium,ES_STCS,Student skills,High,AVSCORE,550.0
+CAN,Canada,ES_STCS,Student skills,High,AVSCORE,553.0
+CZE,Czech Republic,ES_STCS,Student skills,High,AVSCORE,544.0
+DNK,Denmark,ES_STCS,Student skills,High,AVSCORE,540.0
+FIN,Finland,ES_STCS,Student skills,High,AVSCORE,562.0
+FRA,France,ES_STCS,Student skills,High,AVSCORE,550.0
+DEU,Germany,ES_STCS,Student skills,High,AVSCORE,564.0
+GRC,Greece,ES_STCS,Student skills,High,AVSCORE,502.0
+HUN,Hungary,ES_STCS,Student skills,High,AVSCORE,534.0
+ISL,Iceland,ES_STCS,Student skills,High,AVSCORE,510.0
+IRL,Ireland,ES_STCS,Student skills,High,AVSCORE,557.0
+ITA,Italy,ES_STCS,Student skills,High,AVSCORE,511.0
+JPN,Japan,ES_STCS,Student skills,High,AVSCORE,537.0
+KOR,Korea,ES_STCS,Student skills,High,AVSCORE,552.0
+LUX,Luxembourg,ES_STCS,Student skills,High,AVSCORE,537.0
+MEX,Mexico,ES_STCS,Student skills,High,AVSCORE,464.0
+NLD,Netherlands,ES_STCS,Student skills,High,AVSCORE,536.0
+NZL,New Zealand,ES_STCS,Student skills,High,AVSCORE,558.0
+NOR,Norway,ES_STCS,Student skills,High,AVSCORE,532.0
+POL,Poland,ES_STCS,Student skills,High,AVSCORE,560.0
+PRT,Portugal,ES_STCS,Student skills,High,AVSCORE,543.0
+SVK,Slovak Republic,ES_STCS,Student skills,High,AVSCORE,511.0
+SWE,Sweden,ES_STCS,Student skills,High,AVSCORE,549.0
+CHE,Switzerland,ES_STCS,Student skills,High,AVSCORE,539.0
+TUR,Türkiye,ES_STCS,Student skills,High,AVSCORE,513.0
+GBR,United Kingdom,ES_STCS,Student skills,High,AVSCORE,550.0
+USA,United States,ES_STCS,Student skills,High,AVSCORE,558.0
+BRA,Brazil,ES_STCS,Student skills,High,AVSCORE,470.0
+CHL,Chile,ES_STCS,Student skills,High,AVSCORE,502.0
+EST,Estonia,ES_STCS,Student skills,High,AVSCORE,558.0
+ISR,Israel,ES_STCS,Student skills,High,AVSCORE,529.0
+LVA,Latvia,ES_STCS,Student skills,High,AVSCORE,512.0
+RUS,Russia,ES_STCS,Student skills,High,AVSCORE,510.0
+SVN,Slovenia,ES_STCS,Student skills,High,AVSCORE,541.0
+AUS,Australia,ES_STCS,Student skills,Low,AVSCORE,460.0
+AUT,Austria,ES_STCS,Student skills,Low,AVSCORE,440.0
+BEL,Belgium,ES_STCS,Student skills,Low,AVSCORE,440.0
+CAN,Canada,ES_STCS,Student skills,Low,AVSCORE,485.0
+CZE,Czech Republic,ES_STCS,Student skills,Low,AVSCORE,439.0
+DNK,Denmark,ES_STCS,Student skills,Low,AVSCORE,462.0
+FIN,Finland,ES_STCS,Student skills,Low,AVSCORE,483.0
+FRA,France,ES_STCS,Student skills,Low,AVSCORE,443.0
+DEU,Germany,ES_STCS,Student skills,Low,AVSCORE,450.0
+GRC,Greece,ES_STCS,Student skills,Low,AVSCORE,417.0
+HUN,Hungary,ES_STCS,Student skills,Low,AVSCORE,420.0
+ISL,Iceland,ES_STCS,Student skills,Low,AVSCORE,437.0
+IRL,Ireland,ES_STCS,Student skills,Low,AVSCORE,482.0
+ITA,Italy,ES_STCS,Student skills,Low,AVSCORE,436.0
+JPN,Japan,ES_STCS,Student skills,Low,AVSCORE,465.0
+KOR,Korea,ES_STCS,Student skills,Low,AVSCORE,477.0
+LUX,Luxembourg,ES_STCS,Student skills,Low,AVSCORE,415.0
+MEX,Mexico,ES_STCS,Student skills,Low,AVSCORE,382.0
+NLD,Netherlands,ES_STCS,Student skills,Low,AVSCORE,448.0
+NZL,New Zealand,ES_STCS,Student skills,Low,AVSCORE,462.0
+NOR,Norway,ES_STCS,Student skills,Low,AVSCORE,459.0
+POL,Poland,ES_STCS,Student skills,Low,AVSCORE,469.0
+PRT,Portugal,ES_STCS,Student skills,Low,AVSCORE,448.0
+SVK,Slovak Republic,ES_STCS,Student skills,Low,AVSCORE,404.0
+SWE,Sweden,ES_STCS,Student skills,Low,AVSCORE,460.0
+CHE,Switzerland,ES_STCS,Student skills,Low,AVSCORE,435.0
+TUR,Türkiye,ES_STCS,Student skills,Low,AVSCORE,437.0
+GBR,United Kingdom,ES_STCS,Student skills,Low,AVSCORE,471.0
+USA,United States,ES_STCS,Student skills,Low,AVSCORE,460.0
+BRA,Brazil,ES_STCS,Student skills,Low,AVSCORE,373.0
+CHL,Chile,ES_STCS,Student skills,Low,AVSCORE,415.0
+EST,Estonia,ES_STCS,Student skills,Low,AVSCORE,497.0
+ISR,Israel,ES_STCS,Student skills,Low,AVSCORE,407.0
+LVA,Latvia,ES_STCS,Student skills,Low,AVSCORE,447.0
+RUS,Russia,ES_STCS,Student skills,Low,AVSCORE,443.0
+SVN,Slovenia,ES_STCS,Student skills,Low,AVSCORE,462.0
+AUS,Australia,ES_EDUEX,Years in education,Total,YR,20.0
+AUT,Austria,ES_EDUEX,Years in education,Total,YR,17.0
+BEL,Belgium,ES_EDUEX,Years in education,Total,YR,19.0
+CAN,Canada,ES_EDUEX,Years in education,Total,YR,17.0
+CZE,Czech Republic,ES_EDUEX,Years in education,Total,YR,18.0
+DNK,Denmark,ES_EDUEX,Years in education,Total,YR,19.0
+FIN,Finland,ES_EDUEX,Years in education,Total,YR,20.0
+FRA,France,ES_EDUEX,Years in education,Total,YR,17.0
+DEU,Germany,ES_EDUEX,Years in education,Total,YR,18.0
+GRC,Greece,ES_EDUEX,Years in education,Total,YR,19.0
+HUN,Hungary,ES_EDUEX,Years in education,Total,YR,16.0
+ISL,Iceland,ES_EDUEX,Years in education,Total,YR,19.0
+IRL,Ireland,ES_EDUEX,Years in education,Total,YR,18.0
+ITA,Italy,ES_EDUEX,Years in education,Total,YR,17.0
+JPN,Japan,ES_EDUEX,Years in education,Total,YR,16.0
+KOR,Korea,ES_EDUEX,Years in education,Total,YR,17.0
+LUX,Luxembourg,ES_EDUEX,Years in education,Total,YR,15.0
+MEX,Mexico,ES_EDUEX,Years in education,Total,YR,15.0
+NLD,Netherlands,ES_EDUEX,Years in education,Total,YR,19.0
+NZL,New Zealand,ES_EDUEX,Years in education,Total,YR,18.0
+NOR,Norway,ES_EDUEX,Years in education,Total,YR,18.0
+POL,Poland,ES_EDUEX,Years in education,Total,YR,18.0
+PRT,Portugal,ES_EDUEX,Years in education,Total,YR,17.0
+SVK,Slovak Republic,ES_EDUEX,Years in education,Total,YR,16.0
+ESP,Spain,ES_EDUEX,Years in education,Total,YR,18.0
+SWE,Sweden,ES_EDUEX,Years in education,Total,YR,20.0
+CHE,Switzerland,ES_EDUEX,Years in education,Total,YR,17.0
+TUR,Türkiye,ES_EDUEX,Years in education,Total,YR,19.0
+GBR,United Kingdom,ES_EDUEX,Years in education,Total,YR,17.0
+USA,United States,ES_EDUEX,Years in education,Total,YR,17.0
+BRA,Brazil,ES_EDUEX,Years in education,Total,YR,16.0
+CHL,Chile,ES_EDUEX,Years in education,Total,YR,17.0
+EST,Estonia,ES_EDUEX,Years in education,Total,YR,18.0
+ISR,Israel,ES_EDUEX,Years in education,Total,YR,16.0
+LVA,Latvia,ES_EDUEX,Years in education,Total,YR,18.0
+RUS,Russia,ES_EDUEX,Years in education,Total,YR,16.0
+SVN,Slovenia,ES_EDUEX,Years in education,Total,YR,18.0
+AUS,Australia,ES_EDUEX,Years in education,Men,YR,20.0
+AUT,Austria,ES_EDUEX,Years in education,Men,YR,17.0
+BEL,Belgium,ES_EDUEX,Years in education,Men,YR,19.0
+CAN,Canada,ES_EDUEX,Years in education,Men,YR,17.0
+CZE,Czech Republic,ES_EDUEX,Years in education,Men,YR,17.0
+DNK,Denmark,ES_EDUEX,Years in education,Men,YR,19.0
+FIN,Finland,ES_EDUEX,Years in education,Men,YR,19.0
+FRA,France,ES_EDUEX,Years in education,Men,YR,16.0
+DEU,Germany,ES_EDUEX,Years in education,Men,YR,18.0
+GRC,Greece,ES_EDUEX,Years in education,Men,YR,19.0
+HUN,Hungary,ES_EDUEX,Years in education,Men,YR,16.0
+ISL,Iceland,ES_EDUEX,Years in education,Men,YR,18.0
+IRL,Ireland,ES_EDUEX,Years in education,Men,YR,18.0
+ITA,Italy,ES_EDUEX,Years in education,Men,YR,16.0
+JPN,Japan,ES_EDUEX,Years in education,Men,YR,16.0
+KOR,Korea,ES_EDUEX,Years in education,Men,YR,18.0
+LUX,Luxembourg,ES_EDUEX,Years in education,Men,YR,15.0
+MEX,Mexico,ES_EDUEX,Years in education,Men,YR,15.0
+NLD,Netherlands,ES_EDUEX,Years in education,Men,YR,19.0
+NZL,New Zealand,ES_EDUEX,Years in education,Men,YR,17.0
+NOR,Norway,ES_EDUEX,Years in education,Men,YR,18.0
+POL,Poland,ES_EDUEX,Years in education,Men,YR,17.0
+PRT,Portugal,ES_EDUEX,Years in education,Men,YR,17.0
+SVK,Slovak Republic,ES_EDUEX,Years in education,Men,YR,15.0
+ESP,Spain,ES_EDUEX,Years in education,Men,YR,18.0
+SWE,Sweden,ES_EDUEX,Years in education,Men,YR,19.0
+CHE,Switzerland,ES_EDUEX,Years in education,Men,YR,18.0
+TUR,Türkiye,ES_EDUEX,Years in education,Men,YR,19.0
+GBR,United Kingdom,ES_EDUEX,Years in education,Men,YR,16.0
+USA,United States,ES_EDUEX,Years in education,Men,YR,17.0
+BRA,Brazil,ES_EDUEX,Years in education,Men,YR,16.0
+CHL,Chile,ES_EDUEX,Years in education,Men,YR,17.0
+EST,Estonia,ES_EDUEX,Years in education,Men,YR,17.0
+ISR,Israel,ES_EDUEX,Years in education,Men,YR,15.0
+LVA,Latvia,ES_EDUEX,Years in education,Men,YR,18.0
+RUS,Russia,ES_EDUEX,Years in education,Men,YR,16.0
+SVN,Slovenia,ES_EDUEX,Years in education,Men,YR,18.0
+AUS,Australia,ES_EDUEX,Years in education,Women,YR,21.0
+AUT,Austria,ES_EDUEX,Years in education,Women,YR,17.0
+BEL,Belgium,ES_EDUEX,Years in education,Women,YR,20.0
+CAN,Canada,ES_EDUEX,Years in education,Women,YR,17.0
+CZE,Czech Republic,ES_EDUEX,Years in education,Women,YR,18.0
+DNK,Denmark,ES_EDUEX,Years in education,Women,YR,20.0
+FIN,Finland,ES_EDUEX,Years in education,Women,YR,20.0
+FRA,France,ES_EDUEX,Years in education,Women,YR,17.0
+DEU,Germany,ES_EDUEX,Years in education,Women,YR,18.0
+GRC,Greece,ES_EDUEX,Years in education,Women,YR,19.0
+HUN,Hungary,ES_EDUEX,Years in education,Women,YR,17.0
+ISL,Iceland,ES_EDUEX,Years in education,Women,YR,20.0
+IRL,Ireland,ES_EDUEX,Years in education,Women,YR,18.0
+ITA,Italy,ES_EDUEX,Years in education,Women,YR,17.0
+JPN,Japan,ES_EDUEX,Years in education,Women,YR,16.0
+KOR,Korea,ES_EDUEX,Years in education,Women,YR,17.0
+LUX,Luxembourg,ES_EDUEX,Years in education,Women,YR,15.0
+MEX,Mexico,ES_EDUEX,Years in education,Women,YR,16.0
+NLD,Netherlands,ES_EDUEX,Years in education,Women,YR,19.0
+NZL,New Zealand,ES_EDUEX,Years in education,Women,YR,18.0
+NOR,Norway,ES_EDUEX,Years in education,Women,YR,19.0
+POL,Poland,ES_EDUEX,Years in education,Women,YR,18.0
+PRT,Portugal,ES_EDUEX,Years in education,Women,YR,17.0
+SVK,Slovak Republic,ES_EDUEX,Years in education,Women,YR,16.0
+ESP,Spain,ES_EDUEX,Years in education,Women,YR,18.0
+SWE,Sweden,ES_EDUEX,Years in education,Women,YR,20.0
+CHE,Switzerland,ES_EDUEX,Years in education,Women,YR,17.0
+TUR,Türkiye,ES_EDUEX,Years in education,Women,YR,18.0
+GBR,United Kingdom,ES_EDUEX,Years in education,Women,YR,17.0
+USA,United States,ES_EDUEX,Years in education,Women,YR,18.0
+BRA,Brazil,ES_EDUEX,Years in education,Women,YR,16.0
+CHL,Chile,ES_EDUEX,Years in education,Women,YR,18.0
+EST,Estonia,ES_EDUEX,Years in education,Women,YR,18.0
+ISR,Israel,ES_EDUEX,Years in education,Women,YR,16.0
+LVA,Latvia,ES_EDUEX,Years in education,Women,YR,19.0
+RUS,Russia,ES_EDUEX,Years in education,Women,YR,17.0
+SVN,Slovenia,ES_EDUEX,Years in education,Women,YR,19.0
+AUS,Australia,EQ_AIRP,Air pollution,Total,MICRO_M3,6.7
+AUT,Austria,EQ_AIRP,Air pollution,Total,MICRO_M3,12.2
+BEL,Belgium,EQ_AIRP,Air pollution,Total,MICRO_M3,12.8
+CAN,Canada,EQ_AIRP,Air pollution,Total,MICRO_M3,7.1
+CZE,Czech Republic,EQ_AIRP,Air pollution,Total,MICRO_M3,17.0
+DNK,Denmark,EQ_AIRP,Air pollution,Total,MICRO_M3,10.0
+FIN,Finland,EQ_AIRP,Air pollution,Total,MICRO_M3,5.5
+FRA,France,EQ_AIRP,Air pollution,Total,MICRO_M3,11.4
+DEU,Germany,EQ_AIRP,Air pollution,Total,MICRO_M3,12.0
+GRC,Greece,EQ_AIRP,Air pollution,Total,MICRO_M3,14.5
+HUN,Hungary,EQ_AIRP,Air pollution,Total,MICRO_M3,16.7
+ISL,Iceland,EQ_AIRP,Air pollution,Total,MICRO_M3,6.4
+IRL,Ireland,EQ_AIRP,Air pollution,Total,MICRO_M3,7.8
+ITA,Italy,EQ_AIRP,Air pollution,Total,MICRO_M3,15.9
+JPN,Japan,EQ_AIRP,Air pollution,Total,MICRO_M3,13.7
+KOR,Korea,EQ_AIRP,Air pollution,Total,MICRO_M3,27.3
+LUX,Luxembourg,EQ_AIRP,Air pollution,Total,MICRO_M3,10.0
+MEX,Mexico,EQ_AIRP,Air pollution,Total,MICRO_M3,20.3
+NLD,Netherlands,EQ_AIRP,Air pollution,Total,MICRO_M3,12.2
+NZL,New Zealand,EQ_AIRP,Air pollution,Total,MICRO_M3,6.0
+NOR,Norway,EQ_AIRP,Air pollution,Total,MICRO_M3,6.7
+POL,Poland,EQ_AIRP,Air pollution,Total,MICRO_M3,22.8
+PRT,Portugal,EQ_AIRP,Air pollution,Total,MICRO_M3,8.3
+SVK,Slovak Republic,EQ_AIRP,Air pollution,Total,MICRO_M3,18.5
+ESP,Spain,EQ_AIRP,Air pollution,Total,MICRO_M3,10.0
+SWE,Sweden,EQ_AIRP,Air pollution,Total,MICRO_M3,5.8
+CHE,Switzerland,EQ_AIRP,Air pollution,Total,MICRO_M3,10.1
+TUR,Türkiye,EQ_AIRP,Air pollution,Total,MICRO_M3,27.1
+GBR,United Kingdom,EQ_AIRP,Air pollution,Total,MICRO_M3,10.1
+USA,United States,EQ_AIRP,Air pollution,Total,MICRO_M3,7.7
+BRA,Brazil,EQ_AIRP,Air pollution,Total,MICRO_M3,11.7
+CHL,Chile,EQ_AIRP,Air pollution,Total,MICRO_M3,23.4
+EST,Estonia,EQ_AIRP,Air pollution,Total,MICRO_M3,5.9
+ISR,Israel,EQ_AIRP,Air pollution,Total,MICRO_M3,19.7
+LVA,Latvia,EQ_AIRP,Air pollution,Total,MICRO_M3,12.7
+RUS,Russia,EQ_AIRP,Air pollution,Total,MICRO_M3,11.8
+SVN,Slovenia,EQ_AIRP,Air pollution,Total,MICRO_M3,17.0
+ZAF,South Africa,EQ_AIRP,Air pollution,Total,MICRO_M3,28.5
+AUS,Australia,EQ_WATER,Water quality,Total,PC,92.0
+AUT,Austria,EQ_WATER,Water quality,Total,PC,92.0
+BEL,Belgium,EQ_WATER,Water quality,Total,PC,79.0
+CAN,Canada,EQ_WATER,Water quality,Total,PC,90.0
+CZE,Czech Republic,EQ_WATER,Water quality,Total,PC,89.0
+DNK,Denmark,EQ_WATER,Water quality,Total,PC,93.0
+FIN,Finland,EQ_WATER,Water quality,Total,PC,97.0
+FRA,France,EQ_WATER,Water quality,Total,PC,78.0
+DEU,Germany,EQ_WATER,Water quality,Total,PC,91.0
+GRC,Greece,EQ_WATER,Water quality,Total,PC,67.0
+HUN,Hungary,EQ_WATER,Water quality,Total,PC,81.0
+ISL,Iceland,EQ_WATER,Water quality,Total,PC,97.0
+IRL,Ireland,EQ_WATER,Water quality,Total,PC,80.0
+ITA,Italy,EQ_WATER,Water quality,Total,PC,77.0
+JPN,Japan,EQ_WATER,Water quality,Total,PC,87.0
+KOR,Korea,EQ_WATER,Water quality,Total,PC,82.0
+LUX,Luxembourg,EQ_WATER,Water quality,Total,PC,85.0
+MEX,Mexico,EQ_WATER,Water quality,Total,PC,75.0
+NLD,Netherlands,EQ_WATER,Water quality,Total,PC,91.0
+NZL,New Zealand,EQ_WATER,Water quality,Total,PC,85.0
+NOR,Norway,EQ_WATER,Water quality,Total,PC,98.0
+POL,Poland,EQ_WATER,Water quality,Total,PC,82.0
+PRT,Portugal,EQ_WATER,Water quality,Total,PC,89.0
+SVK,Slovak Republic,EQ_WATER,Water quality,Total,PC,81.0
+ESP,Spain,EQ_WATER,Water quality,Total,PC,76.0
+SWE,Sweden,EQ_WATER,Water quality,Total,PC,97.0
+CHE,Switzerland,EQ_WATER,Water quality,Total,PC,96.0
+TUR,Türkiye,EQ_WATER,Water quality,Total,PC,62.0
+GBR,United Kingdom,EQ_WATER,Water quality,Total,PC,82.0
+USA,United States,EQ_WATER,Water quality,Total,PC,88.0
+BRA,Brazil,EQ_WATER,Water quality,Total,PC,70.0
+CHL,Chile,EQ_WATER,Water quality,Total,PC,62.0
+EST,Estonia,EQ_WATER,Water quality,Total,PC,86.0
+ISR,Israel,EQ_WATER,Water quality,Total,PC,77.0
+LVA,Latvia,EQ_WATER,Water quality,Total,PC,83.0
+RUS,Russia,EQ_WATER,Water quality,Total,PC,62.0
+SVN,Slovenia,EQ_WATER,Water quality,Total,PC,93.0
+ZAF,South Africa,EQ_WATER,Water quality,Total,PC,72.0
+AUS,Australia,EQ_WATER,Water quality,Men,PC,93.0
+AUT,Austria,EQ_WATER,Water quality,Men,PC,91.0
+BEL,Belgium,EQ_WATER,Water quality,Men,PC,81.0
+CAN,Canada,EQ_WATER,Water quality,Men,PC,94.0
+CZE,Czech Republic,EQ_WATER,Water quality,Men,PC,93.0
+DNK,Denmark,EQ_WATER,Water quality,Men,PC,93.0
+FIN,Finland,EQ_WATER,Water quality,Men,PC,96.0
+FRA,France,EQ_WATER,Water quality,Men,PC,78.0
+DEU,Germany,EQ_WATER,Water quality,Men,PC,90.0
+GRC,Greece,EQ_WATER,Water quality,Men,PC,69.0
+HUN,Hungary,EQ_WATER,Water quality,Men,PC,83.0
+ISL,Iceland,EQ_WATER,Water quality,Men,PC,98.0
+IRL,Ireland,EQ_WATER,Water quality,Men,PC,79.0
+ITA,Italy,EQ_WATER,Water quality,Men,PC,73.0
+JPN,Japan,EQ_WATER,Water quality,Men,PC,89.0
+KOR,Korea,EQ_WATER,Water quality,Men,PC,80.0
+LUX,Luxembourg,EQ_WATER,Water quality,Men,PC,85.0
+MEX,Mexico,EQ_WATER,Water quality,Men,PC,78.0
+NLD,Netherlands,EQ_WATER,Water quality,Men,PC,95.0
+NZL,New Zealand,EQ_WATER,Water quality,Men,PC,85.0
+NOR,Norway,EQ_WATER,Water quality,Men,PC,98.0
+POL,Poland,EQ_WATER,Water quality,Men,PC,83.0
+PRT,Portugal,EQ_WATER,Water quality,Men,PC,91.0
+SVK,Slovak Republic,EQ_WATER,Water quality,Men,PC,83.0
+ESP,Spain,EQ_WATER,Water quality,Men,PC,75.0
+SWE,Sweden,EQ_WATER,Water quality,Men,PC,98.0
+CHE,Switzerland,EQ_WATER,Water quality,Men,PC,96.0
+TUR,Türkiye,EQ_WATER,Water quality,Men,PC,64.0
+GBR,United Kingdom,EQ_WATER,Water quality,Men,PC,80.0
+USA,United States,EQ_WATER,Water quality,Men,PC,90.0
+BRA,Brazil,EQ_WATER,Water quality,Men,PC,70.0
+CHL,Chile,EQ_WATER,Water quality,Men,PC,64.0
+EST,Estonia,EQ_WATER,Water quality,Men,PC,86.0
+ISR,Israel,EQ_WATER,Water quality,Men,PC,74.0
+LVA,Latvia,EQ_WATER,Water quality,Men,PC,84.0
+RUS,Russia,EQ_WATER,Water quality,Men,PC,64.0
+SVN,Slovenia,EQ_WATER,Water quality,Men,PC,95.0
+ZAF,South Africa,EQ_WATER,Water quality,Men,PC,71.0
+AUS,Australia,EQ_WATER,Water quality,Women,PC,91.0
+AUT,Austria,EQ_WATER,Water quality,Women,PC,92.0
+BEL,Belgium,EQ_WATER,Water quality,Women,PC,77.0
+CAN,Canada,EQ_WATER,Water quality,Women,PC,87.0
+CZE,Czech Republic,EQ_WATER,Water quality,Women,PC,86.0
+DNK,Denmark,EQ_WATER,Water quality,Women,PC,92.0
+FIN,Finland,EQ_WATER,Water quality,Women,PC,97.0
+FRA,France,EQ_WATER,Water quality,Women,PC,79.0
+DEU,Germany,EQ_WATER,Water quality,Women,PC,92.0
+GRC,Greece,EQ_WATER,Water quality,Women,PC,66.0
+HUN,Hungary,EQ_WATER,Water quality,Women,PC,79.0
+ISL,Iceland,EQ_WATER,Water quality,Women,PC,96.0
+IRL,Ireland,EQ_WATER,Water quality,Women,PC,81.0
+ITA,Italy,EQ_WATER,Water quality,Women,PC,82.0
+JPN,Japan,EQ_WATER,Water quality,Women,PC,85.0
+KOR,Korea,EQ_WATER,Water quality,Women,PC,84.0
+LUX,Luxembourg,EQ_WATER,Water quality,Women,PC,85.0
+MEX,Mexico,EQ_WATER,Water quality,Women,PC,72.0
+NLD,Netherlands,EQ_WATER,Water quality,Women,PC,88.0
+NZL,New Zealand,EQ_WATER,Water quality,Women,PC,84.0
+NOR,Norway,EQ_WATER,Water quality,Women,PC,98.0
+POL,Poland,EQ_WATER,Water quality,Women,PC,82.0
+PRT,Portugal,EQ_WATER,Water quality,Women,PC,88.0
+SVK,Slovak Republic,EQ_WATER,Water quality,Women,PC,80.0
+ESP,Spain,EQ_WATER,Water quality,Women,PC,77.0
+SWE,Sweden,EQ_WATER,Water quality,Women,PC,97.0
+CHE,Switzerland,EQ_WATER,Water quality,Women,PC,95.0
+TUR,Türkiye,EQ_WATER,Water quality,Women,PC,60.0
+GBR,United Kingdom,EQ_WATER,Water quality,Women,PC,84.0
+USA,United States,EQ_WATER,Water quality,Women,PC,86.0
+BRA,Brazil,EQ_WATER,Water quality,Women,PC,71.0
+CHL,Chile,EQ_WATER,Water quality,Women,PC,60.0
+EST,Estonia,EQ_WATER,Water quality,Women,PC,86.0
+ISR,Israel,EQ_WATER,Water quality,Women,PC,79.0
+LVA,Latvia,EQ_WATER,Water quality,Women,PC,83.0
+RUS,Russia,EQ_WATER,Water quality,Women,PC,59.0
+SVN,Slovenia,EQ_WATER,Water quality,Women,PC,90.0
+ZAF,South Africa,EQ_WATER,Water quality,Women,PC,73.0
+AUS,Australia,CG_VOTO,Voter turnout,Total,PC,92.0
+AUT,Austria,CG_VOTO,Voter turnout,Total,PC,76.0
+BEL,Belgium,CG_VOTO,Voter turnout,Total,PC,88.0
+CAN,Canada,CG_VOTO,Voter turnout,Total,PC,68.0
+CZE,Czech Republic,CG_VOTO,Voter turnout,Total,PC,62.0
+DNK,Denmark,CG_VOTO,Voter turnout,Total,PC,85.0
+FIN,Finland,CG_VOTO,Voter turnout,Total,PC,69.0
+FRA,France,CG_VOTO,Voter turnout,Total,PC,75.0
+DEU,Germany,CG_VOTO,Voter turnout,Total,PC,76.0
+GRC,Greece,CG_VOTO,Voter turnout,Total,PC,58.0
+HUN,Hungary,CG_VOTO,Voter turnout,Total,PC,70.0
+ISL,Iceland,CG_VOTO,Voter turnout,Total,PC,81.0
+IRL,Ireland,CG_VOTO,Voter turnout,Total,PC,63.0
+ITA,Italy,CG_VOTO,Voter turnout,Total,PC,73.0
+JPN,Japan,CG_VOTO,Voter turnout,Total,PC,53.0
+KOR,Korea,CG_VOTO,Voter turnout,Total,PC,77.0
+LUX,Luxembourg,CG_VOTO,Voter turnout,Total,PC,90.0
+MEX,Mexico,CG_VOTO,Voter turnout,Total,PC,63.0
+NLD,Netherlands,CG_VOTO,Voter turnout,Total,PC,79.0
+NZL,New Zealand,CG_VOTO,Voter turnout,Total,PC,82.0
+NOR,Norway,CG_VOTO,Voter turnout,Total,PC,78.0
+POL,Poland,CG_VOTO,Voter turnout,Total,PC,68.0
+PRT,Portugal,CG_VOTO,Voter turnout,Total,PC,49.0
+SVK,Slovak Republic,CG_VOTO,Voter turnout,Total,PC,66.0
+ESP,Spain,CG_VOTO,Voter turnout,Total,PC,72.0
+SWE,Sweden,CG_VOTO,Voter turnout,Total,PC,87.0
+CHE,Switzerland,CG_VOTO,Voter turnout,Total,PC,45.0
+TUR,Türkiye,CG_VOTO,Voter turnout,Total,PC,86.0
+GBR,United Kingdom,CG_VOTO,Voter turnout,Total,PC,68.0
+USA,United States,CG_VOTO,Voter turnout,Total,PC,65.0
+BRA,Brazil,CG_VOTO,Voter turnout,Total,PC,80.0
+CHL,Chile,CG_VOTO,Voter turnout,Total,PC,47.0
+EST,Estonia,CG_VOTO,Voter turnout,Total,PC,64.0
+ISR,Israel,CG_VOTO,Voter turnout,Total,PC,67.0
+LVA,Latvia,CG_VOTO,Voter turnout,Total,PC,55.0
+RUS,Russia,CG_VOTO,Voter turnout,Total,PC,68.0
+SVN,Slovenia,CG_VOTO,Voter turnout,Total,PC,53.0
+ZAF,South Africa,CG_VOTO,Voter turnout,Total,PC,66.0
+AUS,Australia,HS_LEB,Life expectancy,Total,YR,83.0
+AUT,Austria,HS_LEB,Life expectancy,Total,YR,82.0
+BEL,Belgium,HS_LEB,Life expectancy,Total,YR,82.1
+CAN,Canada,HS_LEB,Life expectancy,Total,YR,82.1
+CZE,Czech Republic,HS_LEB,Life expectancy,Total,YR,79.3
+DNK,Denmark,HS_LEB,Life expectancy,Total,YR,81.5
+FIN,Finland,HS_LEB,Life expectancy,Total,YR,82.1
+FRA,France,HS_LEB,Life expectancy,Total,YR,82.9
+DEU,Germany,HS_LEB,Life expectancy,Total,YR,81.4
+GRC,Greece,HS_LEB,Life expectancy,Total,YR,81.7
+HUN,Hungary,HS_LEB,Life expectancy,Total,YR,76.4
+ISL,Iceland,HS_LEB,Life expectancy,Total,YR,83.2
+IRL,Ireland,HS_LEB,Life expectancy,Total,YR,82.8
+ITA,Italy,HS_LEB,Life expectancy,Total,YR,83.6
+JPN,Japan,HS_LEB,Life expectancy,Total,YR,84.4
+KOR,Korea,HS_LEB,Life expectancy,Total,YR,83.3
+LUX,Luxembourg,HS_LEB,Life expectancy,Total,YR,82.7
+MEX,Mexico,HS_LEB,Life expectancy,Total,YR,75.1
+NLD,Netherlands,HS_LEB,Life expectancy,Total,YR,82.2
+NZL,New Zealand,HS_LEB,Life expectancy,Total,YR,82.1
+NOR,Norway,HS_LEB,Life expectancy,Total,YR,83.0
+POL,Poland,HS_LEB,Life expectancy,Total,YR,78.0
+PRT,Portugal,HS_LEB,Life expectancy,Total,YR,81.8
+SVK,Slovak Republic,HS_LEB,Life expectancy,Total,YR,77.8
+ESP,Spain,HS_LEB,Life expectancy,Total,YR,83.9
+SWE,Sweden,HS_LEB,Life expectancy,Total,YR,83.2
+CHE,Switzerland,HS_LEB,Life expectancy,Total,YR,84.0
+TUR,Türkiye,HS_LEB,Life expectancy,Total,YR,78.6
+GBR,United Kingdom,HS_LEB,Life expectancy,Total,YR,81.3
+USA,United States,HS_LEB,Life expectancy,Total,YR,78.9
+BRA,Brazil,HS_LEB,Life expectancy,Total,YR,75.9
+CHL,Chile,HS_LEB,Life expectancy,Total,YR,80.6
+EST,Estonia,HS_LEB,Life expectancy,Total,YR,78.8
+ISR,Israel,HS_LEB,Life expectancy,Total,YR,82.9
+LVA,Latvia,HS_LEB,Life expectancy,Total,YR,75.5
+RUS,Russia,HS_LEB,Life expectancy,Total,YR,73.2
+SVN,Slovenia,HS_LEB,Life expectancy,Total,YR,81.6
+ZAF,South Africa,HS_LEB,Life expectancy,Total,YR,64.2
+AUS,Australia,HS_LEB,Life expectancy,Men,YR,80.9
+AUT,Austria,HS_LEB,Life expectancy,Men,YR,79.7
+BEL,Belgium,HS_LEB,Life expectancy,Men,YR,79.8
+CAN,Canada,HS_LEB,Life expectancy,Men,YR,80.0
+CZE,Czech Republic,HS_LEB,Life expectancy,Men,YR,76.4
+DNK,Denmark,HS_LEB,Life expectancy,Men,YR,79.5
+FIN,Finland,HS_LEB,Life expectancy,Men,YR,79.3
+FRA,France,HS_LEB,Life expectancy,Men,YR,79.9
+DEU,Germany,HS_LEB,Life expectancy,Men,YR,79.0
+GRC,Greece,HS_LEB,Life expectancy,Men,YR,79.2
+HUN,Hungary,HS_LEB,Life expectancy,Men,YR,73.1
+ISL,Iceland,HS_LEB,Life expectancy,Men,YR,81.7
+IRL,Ireland,HS_LEB,Life expectancy,Men,YR,80.8
+ITA,Italy,HS_LEB,Life expectancy,Men,YR,81.4
+JPN,Japan,HS_LEB,Life expectancy,Men,YR,81.4
+KOR,Korea,HS_LEB,Life expectancy,Men,YR,80.3
+LUX,Luxembourg,HS_LEB,Life expectancy,Men,YR,80.2
+MEX,Mexico,HS_LEB,Life expectancy,Men,YR,72.2
+NLD,Netherlands,HS_LEB,Life expectancy,Men,YR,80.6
+NZL,New Zealand,HS_LEB,Life expectancy,Men,YR,80.3
+NOR,Norway,HS_LEB,Life expectancy,Men,YR,81.3
+POL,Poland,HS_LEB,Life expectancy,Men,YR,74.1
+PRT,Portugal,HS_LEB,Life expectancy,Men,YR,78.7
+SVK,Slovak Republic,HS_LEB,Life expectancy,Men,YR,74.3
+ESP,Spain,HS_LEB,Life expectancy,Men,YR,81.1
+SWE,Sweden,HS_LEB,Life expectancy,Men,YR,81.5
+CHE,Switzerland,HS_LEB,Life expectancy,Men,YR,82.1
+TUR,Türkiye,HS_LEB,Life expectancy,Men,YR,75.9
+GBR,United Kingdom,HS_LEB,Life expectancy,Men,YR,79.4
+USA,United States,HS_LEB,Life expectancy,Men,YR,76.3
+BRA,Brazil,HS_LEB,Life expectancy,Men,YR,72.2
+CHL,Chile,HS_LEB,Life expectancy,Men,YR,77.9
+EST,Estonia,HS_LEB,Life expectancy,Men,YR,74.5
+ISR,Israel,HS_LEB,Life expectancy,Men,YR,81.0
+LVA,Latvia,HS_LEB,Life expectancy,Men,YR,70.9
+RUS,Russia,HS_LEB,Life expectancy,Men,YR,68.2
+SVN,Slovenia,HS_LEB,Life expectancy,Men,YR,78.7
+ZAF,South Africa,HS_LEB,Life expectancy,Men,YR,60.7
+AUS,Australia,HS_LEB,Life expectancy,Women,YR,85.0
+AUT,Austria,HS_LEB,Life expectancy,Women,YR,84.2
+BEL,Belgium,HS_LEB,Life expectancy,Women,YR,84.3
+CAN,Canada,HS_LEB,Life expectancy,Women,YR,84.2
+CZE,Czech Republic,HS_LEB,Life expectancy,Women,YR,82.2
+DNK,Denmark,HS_LEB,Life expectancy,Women,YR,83.5
+FIN,Finland,HS_LEB,Life expectancy,Women,YR,84.8
+FRA,France,HS_LEB,Life expectancy,Women,YR,85.9
+DEU,Germany,HS_LEB,Life expectancy,Women,YR,83.7
+GRC,Greece,HS_LEB,Life expectancy,Women,YR,84.2
+HUN,Hungary,HS_LEB,Life expectancy,Women,YR,79.7
+ISL,Iceland,HS_LEB,Life expectancy,Women,YR,84.7
+IRL,Ireland,HS_LEB,Life expectancy,Women,YR,84.7
+ITA,Italy,HS_LEB,Life expectancy,Women,YR,85.7
+JPN,Japan,HS_LEB,Life expectancy,Women,YR,87.5
+KOR,Korea,HS_LEB,Life expectancy,Women,YR,86.3
+LUX,Luxembourg,HS_LEB,Life expectancy,Women,YR,85.2
+MEX,Mexico,HS_LEB,Life expectancy,Women,YR,78.0
+NLD,Netherlands,HS_LEB,Life expectancy,Women,YR,83.7
+NZL,New Zealand,HS_LEB,Life expectancy,Women,YR,83.9
+NOR,Norway,HS_LEB,Life expectancy,Women,YR,84.7
+POL,Poland,HS_LEB,Life expectancy,Women,YR,81.9
+PRT,Portugal,HS_LEB,Life expectancy,Women,YR,84.8
+SVK,Slovak Republic,HS_LEB,Life expectancy,Women,YR,81.2
+ESP,Spain,HS_LEB,Life expectancy,Women,YR,86.7
+SWE,Sweden,HS_LEB,Life expectancy,Women,YR,84.8
+CHE,Switzerland,HS_LEB,Life expectancy,Women,YR,85.8
+TUR,Türkiye,HS_LEB,Life expectancy,Women,YR,81.3
+GBR,United Kingdom,HS_LEB,Life expectancy,Women,YR,83.1
+USA,United States,HS_LEB,Life expectancy,Women,YR,81.4
+BRA,Brazil,HS_LEB,Life expectancy,Women,YR,79.6
+CHL,Chile,HS_LEB,Life expectancy,Women,YR,83.4
+EST,Estonia,HS_LEB,Life expectancy,Women,YR,83.0
+ISR,Israel,HS_LEB,Life expectancy,Women,YR,84.8
+LVA,Latvia,HS_LEB,Life expectancy,Women,YR,80.1
+RUS,Russia,HS_LEB,Life expectancy,Women,YR,78.2
+SVN,Slovenia,HS_LEB,Life expectancy,Women,YR,84.5
+ZAF,South Africa,HS_LEB,Life expectancy,Women,YR,67.7
+AUS,Australia,HS_SFRH,Self-reported health,Total,PC,85.0
+AUT,Austria,HS_SFRH,Self-reported health,Total,PC,71.0
+BEL,Belgium,HS_SFRH,Self-reported health,Total,PC,74.0
+CAN,Canada,HS_SFRH,Self-reported health,Total,PC,89.0
+CZE,Czech Republic,HS_SFRH,Self-reported health,Total,PC,62.0
+DNK,Denmark,HS_SFRH,Self-reported health,Total,PC,70.0
+FIN,Finland,HS_SFRH,Self-reported health,Total,PC,68.0
+FRA,France,HS_SFRH,Self-reported health,Total,PC,67.0
+DEU,Germany,HS_SFRH,Self-reported health,Total,PC,66.0
+GRC,Greece,HS_SFRH,Self-reported health,Total,PC,79.0
+HUN,Hungary,HS_SFRH,Self-reported health,Total,PC,58.0
+ISL,Iceland,HS_SFRH,Self-reported health,Total,PC,77.0
+IRL,Ireland,HS_SFRH,Self-reported health,Total,PC,84.0
+ITA,Italy,HS_SFRH,Self-reported health,Total,PC,73.0
+JPN,Japan,HS_SFRH,Self-reported health,Total,PC,37.0
+KOR,Korea,HS_SFRH,Self-reported health,Total,PC,34.0
+LUX,Luxembourg,HS_SFRH,Self-reported health,Total,PC,72.0
+MEX,Mexico,HS_SFRH,Self-reported health,Total,PC,66.0
+NLD,Netherlands,HS_SFRH,Self-reported health,Total,PC,75.0
+NZL,New Zealand,HS_SFRH,Self-reported health,Total,PC,86.0
+NOR,Norway,HS_SFRH,Self-reported health,Total,PC,75.0
+POL,Poland,HS_SFRH,Self-reported health,Total,PC,60.0
+PRT,Portugal,HS_SFRH,Self-reported health,Total,PC,50.0
+SVK,Slovak Republic,HS_SFRH,Self-reported health,Total,PC,65.0
+ESP,Spain,HS_SFRH,Self-reported health,Total,PC,75.0
+SWE,Sweden,HS_SFRH,Self-reported health,Total,PC,76.0
+CHE,Switzerland,HS_SFRH,Self-reported health,Total,PC,81.0
+TUR,Türkiye,HS_SFRH,Self-reported health,Total,PC,67.0
+GBR,United Kingdom,HS_SFRH,Self-reported health,Total,PC,73.0
+USA,United States,HS_SFRH,Self-reported health,Total,PC,88.0
+CHL,Chile,HS_SFRH,Self-reported health,Total,PC,60.0
+EST,Estonia,HS_SFRH,Self-reported health,Total,PC,57.0
+ISR,Israel,HS_SFRH,Self-reported health,Total,PC,74.0
+LVA,Latvia,HS_SFRH,Self-reported health,Total,PC,47.0
+RUS,Russia,HS_SFRH,Self-reported health,Total,PC,43.0
+SVN,Slovenia,HS_SFRH,Self-reported health,Total,PC,67.0
+AUS,Australia,HS_SFRH,Self-reported health,Men,PC,85.0
+AUT,Austria,HS_SFRH,Self-reported health,Men,PC,72.0
+BEL,Belgium,HS_SFRH,Self-reported health,Men,PC,76.0
+CAN,Canada,HS_SFRH,Self-reported health,Men,PC,90.0
+CZE,Czech Republic,HS_SFRH,Self-reported health,Men,PC,64.0
+DNK,Denmark,HS_SFRH,Self-reported health,Men,PC,72.0
+FIN,Finland,HS_SFRH,Self-reported health,Men,PC,69.0
+FRA,France,HS_SFRH,Self-reported health,Men,PC,69.0
+DEU,Germany,HS_SFRH,Self-reported health,Men,PC,66.0
+GRC,Greece,HS_SFRH,Self-reported health,Men,PC,81.0
+HUN,Hungary,HS_SFRH,Self-reported health,Men,PC,62.0
+ISL,Iceland,HS_SFRH,Self-reported health,Men,PC,81.0
+IRL,Ireland,HS_SFRH,Self-reported health,Men,PC,84.0
+ITA,Italy,HS_SFRH,Self-reported health,Men,PC,76.0
+JPN,Japan,HS_SFRH,Self-reported health,Men,PC,38.0
+KOR,Korea,HS_SFRH,Self-reported health,Men,PC,38.0
+LUX,Luxembourg,HS_SFRH,Self-reported health,Men,PC,73.0
+MEX,Mexico,HS_SFRH,Self-reported health,Men,PC,67.0
+NLD,Netherlands,HS_SFRH,Self-reported health,Men,PC,77.0
+NZL,New Zealand,HS_SFRH,Self-reported health,Men,PC,87.0
+NOR,Norway,HS_SFRH,Self-reported health,Men,PC,76.0
+POL,Poland,HS_SFRH,Self-reported health,Men,PC,63.0
+PRT,Portugal,HS_SFRH,Self-reported health,Men,PC,55.0
+SVK,Slovak Republic,HS_SFRH,Self-reported health,Men,PC,69.0
+ESP,Spain,HS_SFRH,Self-reported health,Men,PC,78.0
+SWE,Sweden,HS_SFRH,Self-reported health,Men,PC,79.0
+CHE,Switzerland,HS_SFRH,Self-reported health,Men,PC,83.0
+TUR,Türkiye,HS_SFRH,Self-reported health,Men,PC,72.0
+GBR,United Kingdom,HS_SFRH,Self-reported health,Men,PC,74.0
+USA,United States,HS_SFRH,Self-reported health,Men,PC,88.0
+CHL,Chile,HS_SFRH,Self-reported health,Men,PC,64.0
+EST,Estonia,HS_SFRH,Self-reported health,Men,PC,59.0
+ISR,Israel,HS_SFRH,Self-reported health,Men,PC,75.0
+LVA,Latvia,HS_SFRH,Self-reported health,Men,PC,53.0
+RUS,Russia,HS_SFRH,Self-reported health,Men,PC,49.0
+SVN,Slovenia,HS_SFRH,Self-reported health,Men,PC,70.0
+AUS,Australia,HS_SFRH,Self-reported health,Women,PC,86.0
+AUT,Austria,HS_SFRH,Self-reported health,Women,PC,71.0
+BEL,Belgium,HS_SFRH,Self-reported health,Women,PC,72.0
+CAN,Canada,HS_SFRH,Self-reported health,Women,PC,88.0
+CZE,Czech Republic,HS_SFRH,Self-reported health,Women,PC,61.0
+DNK,Denmark,HS_SFRH,Self-reported health,Women,PC,67.0
+FIN,Finland,HS_SFRH,Self-reported health,Women,PC,68.0
+FRA,France,HS_SFRH,Self-reported health,Women,PC,65.0
+DEU,Germany,HS_SFRH,Self-reported health,Women,PC,65.0
+GRC,Greece,HS_SFRH,Self-reported health,Women,PC,77.0
+HUN,Hungary,HS_SFRH,Self-reported health,Women,PC,55.0
+ISL,Iceland,HS_SFRH,Self-reported health,Women,PC,72.0
+IRL,Ireland,HS_SFRH,Self-reported health,Women,PC,84.0
+ITA,Italy,HS_SFRH,Self-reported health,Women,PC,70.0
+JPN,Japan,HS_SFRH,Self-reported health,Women,PC,35.0
+KOR,Korea,HS_SFRH,Self-reported health,Women,PC,30.0
+LUX,Luxembourg,HS_SFRH,Self-reported health,Women,PC,70.0
+MEX,Mexico,HS_SFRH,Self-reported health,Women,PC,64.0
+NLD,Netherlands,HS_SFRH,Self-reported health,Women,PC,73.0
+NZL,New Zealand,HS_SFRH,Self-reported health,Women,PC,85.0
+NOR,Norway,HS_SFRH,Self-reported health,Women,PC,73.0
+POL,Poland,HS_SFRH,Self-reported health,Women,PC,57.0
+PRT,Portugal,HS_SFRH,Self-reported health,Women,PC,45.0
+SVK,Slovak Republic,HS_SFRH,Self-reported health,Women,PC,61.0
+ESP,Spain,HS_SFRH,Self-reported health,Women,PC,73.0
+SWE,Sweden,HS_SFRH,Self-reported health,Women,PC,73.0
+CHE,Switzerland,HS_SFRH,Self-reported health,Women,PC,79.0
+TUR,Türkiye,HS_SFRH,Self-reported health,Women,PC,62.0
+GBR,United Kingdom,HS_SFRH,Self-reported health,Women,PC,72.0
+USA,United States,HS_SFRH,Self-reported health,Women,PC,87.0
+CHL,Chile,HS_SFRH,Self-reported health,Women,PC,56.0
+EST,Estonia,HS_SFRH,Self-reported health,Women,PC,54.0
+ISR,Israel,HS_SFRH,Self-reported health,Women,PC,72.0
+LVA,Latvia,HS_SFRH,Self-reported health,Women,PC,43.0
+RUS,Russia,HS_SFRH,Self-reported health,Women,PC,38.0
+SVN,Slovenia,HS_SFRH,Self-reported health,Women,PC,64.0
+AUS,Australia,HS_SFRH,Self-reported health,High,PC,93.0
+AUT,Austria,HS_SFRH,Self-reported health,High,PC,83.0
+BEL,Belgium,HS_SFRH,Self-reported health,High,PC,87.0
+CAN,Canada,HS_SFRH,Self-reported health,High,PC,93.0
+CZE,Czech Republic,HS_SFRH,Self-reported health,High,PC,84.0
+DNK,Denmark,HS_SFRH,Self-reported health,High,PC,82.0
+FIN,Finland,HS_SFRH,Self-reported health,High,PC,82.0
+FRA,France,HS_SFRH,Self-reported health,High,PC,72.0
+DEU,Germany,HS_SFRH,Self-reported health,High,PC,80.0
+GRC,Greece,HS_SFRH,Self-reported health,High,PC,87.0
+HUN,Hungary,HS_SFRH,Self-reported health,High,PC,72.0
+ISL,Iceland,HS_SFRH,Self-reported health,High,PC,86.0
+IRL,Ireland,HS_SFRH,Self-reported health,High,PC,93.0
+ITA,Italy,HS_SFRH,Self-reported health,High,PC,80.0
+JPN,Japan,HS_SFRH,Self-reported health,High,PC,42.0
+KOR,Korea,HS_SFRH,Self-reported health,High,PC,40.0
+LUX,Luxembourg,HS_SFRH,Self-reported health,High,PC,76.0
+NLD,Netherlands,HS_SFRH,Self-reported health,High,PC,86.0
+NZL,New Zealand,HS_SFRH,Self-reported health,High,PC,92.0
+NOR,Norway,HS_SFRH,Self-reported health,High,PC,83.0
+POL,Poland,HS_SFRH,Self-reported health,High,PC,74.0
+PRT,Portugal,HS_SFRH,Self-reported health,High,PC,63.0
+SVK,Slovak Republic,HS_SFRH,Self-reported health,High,PC,78.0
+ESP,Spain,HS_SFRH,Self-reported health,High,PC,84.0
+SWE,Sweden,HS_SFRH,Self-reported health,High,PC,87.0
+CHE,Switzerland,HS_SFRH,Self-reported health,High,PC,89.0
+TUR,Türkiye,HS_SFRH,Self-reported health,High,PC,74.0
+GBR,United Kingdom,HS_SFRH,Self-reported health,High,PC,84.0
+USA,United States,HS_SFRH,Self-reported health,High,PC,95.0
+CHL,Chile,HS_SFRH,Self-reported health,High,PC,72.0
+EST,Estonia,HS_SFRH,Self-reported health,High,PC,78.0
+ISR,Israel,HS_SFRH,Self-reported health,High,PC,89.0
+LVA,Latvia,HS_SFRH,Self-reported health,High,PC,69.0
+SVN,Slovenia,HS_SFRH,Self-reported health,High,PC,79.0
+AUS,Australia,HS_SFRH,Self-reported health,Low,PC,84.0
+AUT,Austria,HS_SFRH,Self-reported health,Low,PC,61.0
+BEL,Belgium,HS_SFRH,Self-reported health,Low,PC,57.0
+CAN,Canada,HS_SFRH,Self-reported health,Low,PC,81.0
+CZE,Czech Republic,HS_SFRH,Self-reported health,Low,PC,40.0
+DNK,Denmark,HS_SFRH,Self-reported health,Low,PC,62.0
+FIN,Finland,HS_SFRH,Self-reported health,Low,PC,54.0
+FRA,France,HS_SFRH,Self-reported health,Low,PC,58.0
+DEU,Germany,HS_SFRH,Self-reported health,Low,PC,49.0
+GRC,Greece,HS_SFRH,Self-reported health,Low,PC,78.0
+HUN,Hungary,HS_SFRH,Self-reported health,Low,PC,47.0
+ISL,Iceland,HS_SFRH,Self-reported health,Low,PC,66.0
+IRL,Ireland,HS_SFRH,Self-reported health,Low,PC,72.0
+ITA,Italy,HS_SFRH,Self-reported health,Low,PC,71.0
+JPN,Japan,HS_SFRH,Self-reported health,Low,PC,29.0
+KOR,Korea,HS_SFRH,Self-reported health,Low,PC,26.0
+LUX,Luxembourg,HS_SFRH,Self-reported health,Low,PC,65.0
+NLD,Netherlands,HS_SFRH,Self-reported health,Low,PC,60.0
+NZL,New Zealand,HS_SFRH,Self-reported health,Low,PC,82.0
+NOR,Norway,HS_SFRH,Self-reported health,Low,PC,67.0
+POL,Poland,HS_SFRH,Self-reported health,Low,PC,49.0
+PRT,Portugal,HS_SFRH,Self-reported health,Low,PC,38.0
+SVK,Slovak Republic,HS_SFRH,Self-reported health,Low,PC,57.0
+ESP,Spain,HS_SFRH,Self-reported health,Low,PC,71.0
+SWE,Sweden,HS_SFRH,Self-reported health,Low,PC,65.0
+CHE,Switzerland,HS_SFRH,Self-reported health,Low,PC,71.0
+TUR,Türkiye,HS_SFRH,Self-reported health,Low,PC,64.0
+GBR,United Kingdom,HS_SFRH,Self-reported health,Low,PC,62.0
+USA,United States,HS_SFRH,Self-reported health,Low,PC,71.0
+CHL,Chile,HS_SFRH,Self-reported health,Low,PC,52.0
+EST,Estonia,HS_SFRH,Self-reported health,Low,PC,33.0
+ISR,Israel,HS_SFRH,Self-reported health,Low,PC,79.0
+LVA,Latvia,HS_SFRH,Self-reported health,Low,PC,25.0
+SVN,Slovenia,HS_SFRH,Self-reported health,Low,PC,49.0
+AUS,Australia,SW_LIFS,Life satisfaction,Total,AVSCORE,7.1
+AUT,Austria,SW_LIFS,Life satisfaction,Total,AVSCORE,7.2
+BEL,Belgium,SW_LIFS,Life satisfaction,Total,AVSCORE,6.8
+CAN,Canada,SW_LIFS,Life satisfaction,Total,AVSCORE,7.0
+CZE,Czech Republic,SW_LIFS,Life satisfaction,Total,AVSCORE,6.9
+DNK,Denmark,SW_LIFS,Life satisfaction,Total,AVSCORE,7.5
+FIN,Finland,SW_LIFS,Life satisfaction,Total,AVSCORE,7.9
+FRA,France,SW_LIFS,Life satisfaction,Total,AVSCORE,6.7
+DEU,Germany,SW_LIFS,Life satisfaction,Total,AVSCORE,7.3
+GRC,Greece,SW_LIFS,Life satisfaction,Total,AVSCORE,5.8
+HUN,Hungary,SW_LIFS,Life satisfaction,Total,AVSCORE,6.0
+ISL,Iceland,SW_LIFS,Life satisfaction,Total,AVSCORE,7.6
+IRL,Ireland,SW_LIFS,Life satisfaction,Total,AVSCORE,7.0
+ITA,Italy,SW_LIFS,Life satisfaction,Total,AVSCORE,6.5
+JPN,Japan,SW_LIFS,Life satisfaction,Total,AVSCORE,6.1
+KOR,Korea,SW_LIFS,Life satisfaction,Total,AVSCORE,5.8
+LUX,Luxembourg,SW_LIFS,Life satisfaction,Total,AVSCORE,7.4
+MEX,Mexico,SW_LIFS,Life satisfaction,Total,AVSCORE,6.0
+NLD,Netherlands,SW_LIFS,Life satisfaction,Total,AVSCORE,7.5
+NZL,New Zealand,SW_LIFS,Life satisfaction,Total,AVSCORE,7.3
+NOR,Norway,SW_LIFS,Life satisfaction,Total,AVSCORE,7.3
+POL,Poland,SW_LIFS,Life satisfaction,Total,AVSCORE,6.1
+PRT,Portugal,SW_LIFS,Life satisfaction,Total,AVSCORE,5.8
+SVK,Slovak Republic,SW_LIFS,Life satisfaction,Total,AVSCORE,6.5
+ESP,Spain,SW_LIFS,Life satisfaction,Total,AVSCORE,6.5
+SWE,Sweden,SW_LIFS,Life satisfaction,Total,AVSCORE,7.3
+CHE,Switzerland,SW_LIFS,Life satisfaction,Total,AVSCORE,7.5
+TUR,Türkiye,SW_LIFS,Life satisfaction,Total,AVSCORE,4.9
+GBR,United Kingdom,SW_LIFS,Life satisfaction,Total,AVSCORE,6.8
+USA,United States,SW_LIFS,Life satisfaction,Total,AVSCORE,7.0
+BRA,Brazil,SW_LIFS,Life satisfaction,Total,AVSCORE,6.1
+CHL,Chile,SW_LIFS,Life satisfaction,Total,AVSCORE,6.2
+EST,Estonia,SW_LIFS,Life satisfaction,Total,AVSCORE,6.5
+ISR,Israel,SW_LIFS,Life satisfaction,Total,AVSCORE,7.2
+LVA,Latvia,SW_LIFS,Life satisfaction,Total,AVSCORE,6.2
+RUS,Russia,SW_LIFS,Life satisfaction,Total,AVSCORE,5.5
+SVN,Slovenia,SW_LIFS,Life satisfaction,Total,AVSCORE,6.5
+ZAF,South Africa,SW_LIFS,Life satisfaction,Total,AVSCORE,4.9
+AUS,Australia,SW_LIFS,Life satisfaction,Men,AVSCORE,7.1
+AUT,Austria,SW_LIFS,Life satisfaction,Men,AVSCORE,7.1
+BEL,Belgium,SW_LIFS,Life satisfaction,Men,AVSCORE,6.9
+CAN,Canada,SW_LIFS,Life satisfaction,Men,AVSCORE,7.0
+CZE,Czech Republic,SW_LIFS,Life satisfaction,Men,AVSCORE,6.9
+DNK,Denmark,SW_LIFS,Life satisfaction,Men,AVSCORE,7.4
+FIN,Finland,SW_LIFS,Life satisfaction,Men,AVSCORE,7.7
+FRA,France,SW_LIFS,Life satisfaction,Men,AVSCORE,6.8
+DEU,Germany,SW_LIFS,Life satisfaction,Men,AVSCORE,7.4
+GRC,Greece,SW_LIFS,Life satisfaction,Men,AVSCORE,6.0
+HUN,Hungary,SW_LIFS,Life satisfaction,Men,AVSCORE,6.3
+ISL,Iceland,SW_LIFS,Life satisfaction,Men,AVSCORE,7.4
+IRL,Ireland,SW_LIFS,Life satisfaction,Men,AVSCORE,6.9
+ITA,Italy,SW_LIFS,Life satisfaction,Men,AVSCORE,6.4
+JPN,Japan,SW_LIFS,Life satisfaction,Men,AVSCORE,5.9
+KOR,Korea,SW_LIFS,Life satisfaction,Men,AVSCORE,5.4
+LUX,Luxembourg,SW_LIFS,Life satisfaction,Men,AVSCORE,7.4
+MEX,Mexico,SW_LIFS,Life satisfaction,Men,AVSCORE,6.3
+NLD,Netherlands,SW_LIFS,Life satisfaction,Men,AVSCORE,7.6
+NZL,New Zealand,SW_LIFS,Life satisfaction,Men,AVSCORE,7.1
+NOR,Norway,SW_LIFS,Life satisfaction,Men,AVSCORE,7.3
+POL,Poland,SW_LIFS,Life satisfaction,Men,AVSCORE,6.3
+PRT,Portugal,SW_LIFS,Life satisfaction,Men,AVSCORE,6.0
+SVK,Slovak Republic,SW_LIFS,Life satisfaction,Men,AVSCORE,6.5
+ESP,Spain,SW_LIFS,Life satisfaction,Men,AVSCORE,6.4
+SWE,Sweden,SW_LIFS,Life satisfaction,Men,AVSCORE,7.3
+CHE,Switzerland,SW_LIFS,Life satisfaction,Men,AVSCORE,7.5
+TUR,Türkiye,SW_LIFS,Life satisfaction,Men,AVSCORE,4.3
+GBR,United Kingdom,SW_LIFS,Life satisfaction,Men,AVSCORE,6.7
+USA,United States,SW_LIFS,Life satisfaction,Men,AVSCORE,7.0
+BRA,Brazil,SW_LIFS,Life satisfaction,Men,AVSCORE,6.2
+CHL,Chile,SW_LIFS,Life satisfaction,Men,AVSCORE,6.2
+EST,Estonia,SW_LIFS,Life satisfaction,Men,AVSCORE,6.3
+ISR,Israel,SW_LIFS,Life satisfaction,Men,AVSCORE,7.2
+LVA,Latvia,SW_LIFS,Life satisfaction,Men,AVSCORE,6.3
+RUS,Russia,SW_LIFS,Life satisfaction,Men,AVSCORE,5.3
+SVN,Slovenia,SW_LIFS,Life satisfaction,Men,AVSCORE,6.5
+ZAF,South Africa,SW_LIFS,Life satisfaction,Men,AVSCORE,4.9
+AUS,Australia,SW_LIFS,Life satisfaction,Women,AVSCORE,7.2
+AUT,Austria,SW_LIFS,Life satisfaction,Women,AVSCORE,7.3
+BEL,Belgium,SW_LIFS,Life satisfaction,Women,AVSCORE,6.8
+CAN,Canada,SW_LIFS,Life satisfaction,Women,AVSCORE,7.0
+CZE,Czech Republic,SW_LIFS,Life satisfaction,Women,AVSCORE,6.9
+DNK,Denmark,SW_LIFS,Life satisfaction,Women,AVSCORE,7.6
+FIN,Finland,SW_LIFS,Life satisfaction,Women,AVSCORE,8.1
+FRA,France,SW_LIFS,Life satisfaction,Women,AVSCORE,6.7
+DEU,Germany,SW_LIFS,Life satisfaction,Women,AVSCORE,7.3
+GRC,Greece,SW_LIFS,Life satisfaction,Women,AVSCORE,5.6
+HUN,Hungary,SW_LIFS,Life satisfaction,Women,AVSCORE,5.8
+ISL,Iceland,SW_LIFS,Life satisfaction,Women,AVSCORE,7.7
+IRL,Ireland,SW_LIFS,Life satisfaction,Women,AVSCORE,7.2
+ITA,Italy,SW_LIFS,Life satisfaction,Women,AVSCORE,6.5
+JPN,Japan,SW_LIFS,Life satisfaction,Women,AVSCORE,6.3
+KOR,Korea,SW_LIFS,Life satisfaction,Women,AVSCORE,6.2
+LUX,Luxembourg,SW_LIFS,Life satisfaction,Women,AVSCORE,7.4
+MEX,Mexico,SW_LIFS,Life satisfaction,Women,AVSCORE,5.6
+NLD,Netherlands,SW_LIFS,Life satisfaction,Women,AVSCORE,7.4
+NZL,New Zealand,SW_LIFS,Life satisfaction,Women,AVSCORE,7.4
+NOR,Norway,SW_LIFS,Life satisfaction,Women,AVSCORE,7.3
+POL,Poland,SW_LIFS,Life satisfaction,Women,AVSCORE,6.0
+PRT,Portugal,SW_LIFS,Life satisfaction,Women,AVSCORE,5.6
+SVK,Slovak Republic,SW_LIFS,Life satisfaction,Women,AVSCORE,6.6
+ESP,Spain,SW_LIFS,Life satisfaction,Women,AVSCORE,6.6
+SWE,Sweden,SW_LIFS,Life satisfaction,Women,AVSCORE,7.3
+CHE,Switzerland,SW_LIFS,Life satisfaction,Women,AVSCORE,7.5
+TUR,Türkiye,SW_LIFS,Life satisfaction,Women,AVSCORE,5.4
+GBR,United Kingdom,SW_LIFS,Life satisfaction,Women,AVSCORE,6.9
+USA,United States,SW_LIFS,Life satisfaction,Women,AVSCORE,7.1
+BRA,Brazil,SW_LIFS,Life satisfaction,Women,AVSCORE,6.0
+CHL,Chile,SW_LIFS,Life satisfaction,Women,AVSCORE,6.1
+EST,Estonia,SW_LIFS,Life satisfaction,Women,AVSCORE,6.6
+ISR,Israel,SW_LIFS,Life satisfaction,Women,AVSCORE,7.2
+LVA,Latvia,SW_LIFS,Life satisfaction,Women,AVSCORE,6.2
+RUS,Russia,SW_LIFS,Life satisfaction,Women,AVSCORE,5.6
+SVN,Slovenia,SW_LIFS,Life satisfaction,Women,AVSCORE,6.4
+ZAF,South Africa,SW_LIFS,Life satisfaction,Women,AVSCORE,5.0
+AUS,Australia,SW_LIFS,Life satisfaction,High,AVSCORE,7.4
+AUT,Austria,SW_LIFS,Life satisfaction,High,AVSCORE,7.6
+BEL,Belgium,SW_LIFS,Life satisfaction,High,AVSCORE,7.2
+CAN,Canada,SW_LIFS,Life satisfaction,High,AVSCORE,7.3
+CZE,Czech Republic,SW_LIFS,Life satisfaction,High,AVSCORE,7.6
+DNK,Denmark,SW_LIFS,Life satisfaction,High,AVSCORE,7.6
+FIN,Finland,SW_LIFS,Life satisfaction,High,AVSCORE,8.5
+FRA,France,SW_LIFS,Life satisfaction,High,AVSCORE,7.0
+DEU,Germany,SW_LIFS,Life satisfaction,High,AVSCORE,7.8
+GRC,Greece,SW_LIFS,Life satisfaction,High,AVSCORE,6.5
+HUN,Hungary,SW_LIFS,Life satisfaction,High,AVSCORE,6.9
+ISL,Iceland,SW_LIFS,Life satisfaction,High,AVSCORE,7.8
+IRL,Ireland,SW_LIFS,Life satisfaction,High,AVSCORE,7.3
+ITA,Italy,SW_LIFS,Life satisfaction,High,AVSCORE,7.1
+JPN,Japan,SW_LIFS,Life satisfaction,High,AVSCORE,6.5
+KOR,Korea,SW_LIFS,Life satisfaction,High,AVSCORE,6.3
+LUX,Luxembourg,SW_LIFS,Life satisfaction,High,AVSCORE,7.8
+MEX,Mexico,SW_LIFS,Life satisfaction,High,AVSCORE,7.0
+NLD,Netherlands,SW_LIFS,Life satisfaction,High,AVSCORE,7.8
+NZL,New Zealand,SW_LIFS,Life satisfaction,High,AVSCORE,7.3
+NOR,Norway,SW_LIFS,Life satisfaction,High,AVSCORE,7.4
+POL,Poland,SW_LIFS,Life satisfaction,High,AVSCORE,6.6
+PRT,Portugal,SW_LIFS,Life satisfaction,High,AVSCORE,6.7
+SVK,Slovak Republic,SW_LIFS,Life satisfaction,High,AVSCORE,6.9
+ESP,Spain,SW_LIFS,Life satisfaction,High,AVSCORE,7.1
+SWE,Sweden,SW_LIFS,Life satisfaction,High,AVSCORE,7.6
+CHE,Switzerland,SW_LIFS,Life satisfaction,High,AVSCORE,7.6
+TUR,Türkiye,SW_LIFS,Life satisfaction,High,AVSCORE,5.8
+GBR,United Kingdom,SW_LIFS,Life satisfaction,High,AVSCORE,7.2
+USA,United States,SW_LIFS,Life satisfaction,High,AVSCORE,7.5
+BRA,Brazil,SW_LIFS,Life satisfaction,High,AVSCORE,6.9
+CHL,Chile,SW_LIFS,Life satisfaction,High,AVSCORE,6.9
+EST,Estonia,SW_LIFS,Life satisfaction,High,AVSCORE,7.0
+ISR,Israel,SW_LIFS,Life satisfaction,High,AVSCORE,7.5
+LVA,Latvia,SW_LIFS,Life satisfaction,High,AVSCORE,6.6
+RUS,Russia,SW_LIFS,Life satisfaction,High,AVSCORE,5.9
+ZAF,South Africa,SW_LIFS,Life satisfaction,High,AVSCORE,5.6
+AUS,Australia,SW_LIFS,Life satisfaction,Low,AVSCORE,7.0
+AUT,Austria,SW_LIFS,Life satisfaction,Low,AVSCORE,7.2
+BEL,Belgium,SW_LIFS,Life satisfaction,Low,AVSCORE,6.7
+CAN,Canada,SW_LIFS,Life satisfaction,Low,AVSCORE,6.9
+CZE,Czech Republic,SW_LIFS,Life satisfaction,Low,AVSCORE,6.9
+DNK,Denmark,SW_LIFS,Life satisfaction,Low,AVSCORE,7.5
+FIN,Finland,SW_LIFS,Life satisfaction,Low,AVSCORE,7.9
+FRA,France,SW_LIFS,Life satisfaction,Low,AVSCORE,6.7
+DEU,Germany,SW_LIFS,Life satisfaction,Low,AVSCORE,7.2
+GRC,Greece,SW_LIFS,Life satisfaction,Low,AVSCORE,5.7
+HUN,Hungary,SW_LIFS,Life satisfaction,Low,AVSCORE,6.0
+IRL,Ireland,SW_LIFS,Life satisfaction,Low,AVSCORE,7.0
+ITA,Italy,SW_LIFS,Life satisfaction,Low,AVSCORE,6.7
+JPN,Japan,SW_LIFS,Life satisfaction,Low,AVSCORE,6.1
+KOR,Korea,SW_LIFS,Life satisfaction,Low,AVSCORE,5.5
+LUX,Luxembourg,SW_LIFS,Life satisfaction,Low,AVSCORE,7.3
+MEX,Mexico,SW_LIFS,Life satisfaction,Low,AVSCORE,6.2
+NLD,Netherlands,SW_LIFS,Life satisfaction,Low,AVSCORE,7.4
+NZL,New Zealand,SW_LIFS,Life satisfaction,Low,AVSCORE,7.2
+NOR,Norway,SW_LIFS,Life satisfaction,Low,AVSCORE,7.2
+POL,Poland,SW_LIFS,Life satisfaction,Low,AVSCORE,6.0
+PRT,Portugal,SW_LIFS,Life satisfaction,Low,AVSCORE,6.0
+SVK,Slovak Republic,SW_LIFS,Life satisfaction,Low,AVSCORE,6.4
+ESP,Spain,SW_LIFS,Life satisfaction,Low,AVSCORE,6.7
+SWE,Sweden,SW_LIFS,Life satisfaction,Low,AVSCORE,7.2
+CHE,Switzerland,SW_LIFS,Life satisfaction,Low,AVSCORE,7.4
+TUR,Türkiye,SW_LIFS,Life satisfaction,Low,AVSCORE,4.8
+GBR,United Kingdom,SW_LIFS,Life satisfaction,Low,AVSCORE,6.7
+USA,United States,SW_LIFS,Life satisfaction,Low,AVSCORE,6.9
+BRA,Brazil,SW_LIFS,Life satisfaction,Low,AVSCORE,6.4
+CHL,Chile,SW_LIFS,Life satisfaction,Low,AVSCORE,6.1
+EST,Estonia,SW_LIFS,Life satisfaction,Low,AVSCORE,6.1
+ISR,Israel,SW_LIFS,Life satisfaction,Low,AVSCORE,7.2
+LVA,Latvia,SW_LIFS,Life satisfaction,Low,AVSCORE,6.0
+RUS,Russia,SW_LIFS,Life satisfaction,Low,AVSCORE,5.3
+SVN,Slovenia,SW_LIFS,Life satisfaction,Low,AVSCORE,6.5
+ZAF,South Africa,SW_LIFS,Life satisfaction,Low,AVSCORE,4.9
+AUS,Australia,PS_REPH,Homicide rate,Total,RATIO,0.9
+AUT,Austria,PS_REPH,Homicide rate,Total,RATIO,0.5
+BEL,Belgium,PS_REPH,Homicide rate,Total,RATIO,1.1
+CAN,Canada,PS_REPH,Homicide rate,Total,RATIO,1.2
+CZE,Czech Republic,PS_REPH,Homicide rate,Total,RATIO,0.7
+DNK,Denmark,PS_REPH,Homicide rate,Total,RATIO,0.5
+FIN,Finland,PS_REPH,Homicide rate,Total,RATIO,1.2
+FRA,France,PS_REPH,Homicide rate,Total,RATIO,0.4
+DEU,Germany,PS_REPH,Homicide rate,Total,RATIO,0.4
+GRC,Greece,PS_REPH,Homicide rate,Total,RATIO,1.0
+HUN,Hungary,PS_REPH,Homicide rate,Total,RATIO,0.9
+ISL,Iceland,PS_REPH,Homicide rate,Total,RATIO,0.3
+IRL,Ireland,PS_REPH,Homicide rate,Total,RATIO,0.5
+ITA,Italy,PS_REPH,Homicide rate,Total,RATIO,0.5
+JPN,Japan,PS_REPH,Homicide rate,Total,RATIO,0.2
+KOR,Korea,PS_REPH,Homicide rate,Total,RATIO,0.8
+LUX,Luxembourg,PS_REPH,Homicide rate,Total,RATIO,0.2
+MEX,Mexico,PS_REPH,Homicide rate,Total,RATIO,26.8
+NLD,Netherlands,PS_REPH,Homicide rate,Total,RATIO,0.6
+NZL,New Zealand,PS_REPH,Homicide rate,Total,RATIO,1.3
+NOR,Norway,PS_REPH,Homicide rate,Total,RATIO,0.6
+POL,Poland,PS_REPH,Homicide rate,Total,RATIO,0.5
+PRT,Portugal,PS_REPH,Homicide rate,Total,RATIO,0.7
+SVK,Slovak Republic,PS_REPH,Homicide rate,Total,RATIO,0.8
+ESP,Spain,PS_REPH,Homicide rate,Total,RATIO,0.7
+SWE,Sweden,PS_REPH,Homicide rate,Total,RATIO,1.1
+CHE,Switzerland,PS_REPH,Homicide rate,Total,RATIO,0.3
+TUR,Türkiye,PS_REPH,Homicide rate,Total,RATIO,1.0
+GBR,United Kingdom,PS_REPH,Homicide rate,Total,RATIO,0.2
+USA,United States,PS_REPH,Homicide rate,Total,RATIO,6.0
+BRA,Brazil,PS_REPH,Homicide rate,Total,RATIO,19.0
+CHL,Chile,PS_REPH,Homicide rate,Total,RATIO,2.4
+EST,Estonia,PS_REPH,Homicide rate,Total,RATIO,1.9
+ISR,Israel,PS_REPH,Homicide rate,Total,RATIO,1.5
+LVA,Latvia,PS_REPH,Homicide rate,Total,RATIO,3.7
+RUS,Russia,PS_REPH,Homicide rate,Total,RATIO,4.8
+SVN,Slovenia,PS_REPH,Homicide rate,Total,RATIO,0.4
+ZAF,South Africa,PS_REPH,Homicide rate,Total,RATIO,13.7
+AUS,Australia,PS_REPH,Homicide rate,Men,RATIO,1.3
+AUT,Austria,PS_REPH,Homicide rate,Men,RATIO,0.5
+BEL,Belgium,PS_REPH,Homicide rate,Men,RATIO,1.4
+CAN,Canada,PS_REPH,Homicide rate,Men,RATIO,1.8
+CZE,Czech Republic,PS_REPH,Homicide rate,Men,RATIO,0.8
+DNK,Denmark,PS_REPH,Homicide rate,Men,RATIO,0.7
+FIN,Finland,PS_REPH,Homicide rate,Men,RATIO,1.8
+FRA,France,PS_REPH,Homicide rate,Men,RATIO,0.6
+DEU,Germany,PS_REPH,Homicide rate,Men,RATIO,0.4
+GRC,Greece,PS_REPH,Homicide rate,Men,RATIO,1.6
+HUN,Hungary,PS_REPH,Homicide rate,Men,RATIO,1.1
+ISL,Iceland,PS_REPH,Homicide rate,Men,RATIO,0.5
+IRL,Ireland,PS_REPH,Homicide rate,Men,RATIO,0.8
+ITA,Italy,PS_REPH,Homicide rate,Men,RATIO,0.7
+JPN,Japan,PS_REPH,Homicide rate,Men,RATIO,0.2
+KOR,Korea,PS_REPH,Homicide rate,Men,RATIO,0.9
+LUX,Luxembourg,PS_REPH,Homicide rate,Men,RATIO,0.3
+MEX,Mexico,PS_REPH,Homicide rate,Men,RATIO,50.5
+NLD,Netherlands,PS_REPH,Homicide rate,Men,RATIO,0.8
+NZL,New Zealand,PS_REPH,Homicide rate,Men,RATIO,1.6
+NOR,Norway,PS_REPH,Homicide rate,Men,RATIO,0.7
+POL,Poland,PS_REPH,Homicide rate,Men,RATIO,0.8
+PRT,Portugal,PS_REPH,Homicide rate,Men,RATIO,1.0
+SVK,Slovak Republic,PS_REPH,Homicide rate,Men,RATIO,1.0
+ESP,Spain,PS_REPH,Homicide rate,Men,RATIO,0.9
+SWE,Sweden,PS_REPH,Homicide rate,Men,RATIO,1.5
+CHE,Switzerland,PS_REPH,Homicide rate,Men,RATIO,0.4
+TUR,Türkiye,PS_REPH,Homicide rate,Men,RATIO,1.5
+GBR,United Kingdom,PS_REPH,Homicide rate,Men,RATIO,0.2
+USA,United States,PS_REPH,Homicide rate,Men,RATIO,9.5
+BRA,Brazil,PS_REPH,Homicide rate,Men,RATIO,35.5
+CHL,Chile,PS_REPH,Homicide rate,Men,RATIO,4.2
+EST,Estonia,PS_REPH,Homicide rate,Men,RATIO,3.1
+ISR,Israel,PS_REPH,Homicide rate,Men,RATIO,2.4
+LVA,Latvia,PS_REPH,Homicide rate,Men,RATIO,5.8
+RUS,Russia,PS_REPH,Homicide rate,Men,RATIO,7.7
+SVN,Slovenia,PS_REPH,Homicide rate,Men,RATIO,0.5
+ZAF,South Africa,PS_REPH,Homicide rate,Men,RATIO,24.7
+AUS,Australia,PS_REPH,Homicide rate,Women,RATIO,0.6
+AUT,Austria,PS_REPH,Homicide rate,Women,RATIO,0.5
+BEL,Belgium,PS_REPH,Homicide rate,Women,RATIO,0.8
+CAN,Canada,PS_REPH,Homicide rate,Women,RATIO,0.7
+CZE,Czech Republic,PS_REPH,Homicide rate,Women,RATIO,0.6
+DNK,Denmark,PS_REPH,Homicide rate,Women,RATIO,0.4
+FIN,Finland,PS_REPH,Homicide rate,Women,RATIO,0.7
+FRA,France,PS_REPH,Homicide rate,Women,RATIO,0.3
+DEU,Germany,PS_REPH,Homicide rate,Women,RATIO,0.3
+GRC,Greece,PS_REPH,Homicide rate,Women,RATIO,0.4
+HUN,Hungary,PS_REPH,Homicide rate,Women,RATIO,0.7
+ISL,Iceland,PS_REPH,Homicide rate,Women,RATIO,1.2
+IRL,Ireland,PS_REPH,Homicide rate,Women,RATIO,0.1
+ITA,Italy,PS_REPH,Homicide rate,Women,RATIO,0.3
+JPN,Japan,PS_REPH,Homicide rate,Women,RATIO,0.2
+KOR,Korea,PS_REPH,Homicide rate,Women,RATIO,0.7
+LUX,Luxembourg,PS_REPH,Homicide rate,Women,RATIO,0.2
+MEX,Mexico,PS_REPH,Homicide rate,Women,RATIO,5.5
+NLD,Netherlands,PS_REPH,Homicide rate,Women,RATIO,0.4
+NZL,New Zealand,PS_REPH,Homicide rate,Women,RATIO,1.0
+NOR,Norway,PS_REPH,Homicide rate,Women,RATIO,0.5
+POL,Poland,PS_REPH,Homicide rate,Women,RATIO,0.3
+PRT,Portugal,PS_REPH,Homicide rate,Women,RATIO,0.4
+SVK,Slovak Republic,PS_REPH,Homicide rate,Women,RATIO,0.6
+ESP,Spain,PS_REPH,Homicide rate,Women,RATIO,0.5
+SWE,Sweden,PS_REPH,Homicide rate,Women,RATIO,0.5
+CHE,Switzerland,PS_REPH,Homicide rate,Women,RATIO,0.3
+TUR,Türkiye,PS_REPH,Homicide rate,Women,RATIO,0.5
+GBR,United Kingdom,PS_REPH,Homicide rate,Women,RATIO,0.1
+USA,United States,PS_REPH,Homicide rate,Women,RATIO,2.5
+BRA,Brazil,PS_REPH,Homicide rate,Women,RATIO,3.3
+CHL,Chile,PS_REPH,Homicide rate,Women,RATIO,0.7
+EST,Estonia,PS_REPH,Homicide rate,Women,RATIO,0.6
+ISR,Israel,PS_REPH,Homicide rate,Women,RATIO,0.7
+LVA,Latvia,PS_REPH,Homicide rate,Women,RATIO,1.9
+RUS,Russia,PS_REPH,Homicide rate,Women,RATIO,2.2
+SVN,Slovenia,PS_REPH,Homicide rate,Women,RATIO,0.3
+ZAF,South Africa,PS_REPH,Homicide rate,Women,RATIO,3.6
+AUS,Australia,WL_EWLH,Employees working very long hours,Total,PC,12.5
+AUT,Austria,WL_EWLH,Employees working very long hours,Total,PC,5.3
+BEL,Belgium,WL_EWLH,Employees working very long hours,Total,PC,4.3
+CAN,Canada,WL_EWLH,Employees working very long hours,Total,PC,3.3
+CZE,Czech Republic,WL_EWLH,Employees working very long hours,Total,PC,4.5
+DNK,Denmark,WL_EWLH,Employees working very long hours,Total,PC,1.1
+FIN,Finland,WL_EWLH,Employees working very long hours,Total,PC,3.6
+FRA,France,WL_EWLH,Employees working very long hours,Total,PC,7.7
+DEU,Germany,WL_EWLH,Employees working very long hours,Total,PC,3.9
+GRC,Greece,WL_EWLH,Employees working very long hours,Total,PC,4.5
+HUN,Hungary,WL_EWLH,Employees working very long hours,Total,PC,1.5
+ISL,Iceland,WL_EWLH,Employees working very long hours,Total,PC,11.7
+IRL,Ireland,WL_EWLH,Employees working very long hours,Total,PC,4.7
+ITA,Italy,WL_EWLH,Employees working very long hours,Total,PC,3.3
+LUX,Luxembourg,WL_EWLH,Employees working very long hours,Total,PC,2.8
+MEX,Mexico,WL_EWLH,Employees working very long hours,Total,PC,27.0
+NLD,Netherlands,WL_EWLH,Employees working very long hours,Total,PC,0.3
+NZL,New Zealand,WL_EWLH,Employees working very long hours,Total,PC,14.0
+NOR,Norway,WL_EWLH,Employees working very long hours,Total,PC,1.4
+POL,Poland,WL_EWLH,Employees working very long hours,Total,PC,4.2
+PRT,Portugal,WL_EWLH,Employees working very long hours,Total,PC,5.6
+SVK,Slovak Republic,WL_EWLH,Employees working very long hours,Total,PC,4.2
+ESP,Spain,WL_EWLH,Employees working very long hours,Total,PC,2.5
+SWE,Sweden,WL_EWLH,Employees working very long hours,Total,PC,0.9
+CHE,Switzerland,WL_EWLH,Employees working very long hours,Total,PC,0.4
+TUR,Türkiye,WL_EWLH,Employees working very long hours,Total,PC,25.0
+GBR,United Kingdom,WL_EWLH,Employees working very long hours,Total,PC,10.8
+USA,United States,WL_EWLH,Employees working very long hours,Total,PC,10.4
+BRA,Brazil,WL_EWLH,Employees working very long hours,Total,PC,5.6
+CHL,Chile,WL_EWLH,Employees working very long hours,Total,PC,7.7
+EST,Estonia,WL_EWLH,Employees working very long hours,Total,PC,2.2
+ISR,Israel,WL_EWLH,Employees working very long hours,Total,PC,14.1
+LVA,Latvia,WL_EWLH,Employees working very long hours,Total,PC,1.6
+RUS,Russia,WL_EWLH,Employees working very long hours,Total,PC,0.1
+SVN,Slovenia,WL_EWLH,Employees working very long hours,Total,PC,5.6
+ZAF,South Africa,WL_EWLH,Employees working very long hours,Total,PC,15.4
+AUS,Australia,WL_EWLH,Employees working very long hours,Men,PC,18.5
+AUT,Austria,WL_EWLH,Employees working very long hours,Men,PC,8.1
+BEL,Belgium,WL_EWLH,Employees working very long hours,Men,PC,5.8
+CAN,Canada,WL_EWLH,Employees working very long hours,Men,PC,5.3
+CZE,Czech Republic,WL_EWLH,Employees working very long hours,Men,PC,6.7
+DNK,Denmark,WL_EWLH,Employees working very long hours,Men,PC,2.1
+FIN,Finland,WL_EWLH,Employees working very long hours,Men,PC,5.2
+FRA,France,WL_EWLH,Employees working very long hours,Men,PC,10.2
+DEU,Germany,WL_EWLH,Employees working very long hours,Men,PC,5.7
+GRC,Greece,WL_EWLH,Employees working very long hours,Men,PC,6.1
+HUN,Hungary,WL_EWLH,Employees working very long hours,Men,PC,2.0
+ISL,Iceland,WL_EWLH,Employees working very long hours,Men,PC,17.9
+IRL,Ireland,WL_EWLH,Employees working very long hours,Men,PC,7.8
+ITA,Italy,WL_EWLH,Employees working very long hours,Men,PC,4.3
+LUX,Luxembourg,WL_EWLH,Employees working very long hours,Men,PC,3.4
+MEX,Mexico,WL_EWLH,Employees working very long hours,Men,PC,33.0
+NLD,Netherlands,WL_EWLH,Employees working very long hours,Men,PC,0.6
+NZL,New Zealand,WL_EWLH,Employees working very long hours,Men,PC,19.3
+NOR,Norway,WL_EWLH,Employees working very long hours,Men,PC,2.1
+POL,Poland,WL_EWLH,Employees working very long hours,Men,PC,6.7
+PRT,Portugal,WL_EWLH,Employees working very long hours,Men,PC,8.1
+SVK,Slovak Republic,WL_EWLH,Employees working very long hours,Men,PC,6.1
+ESP,Spain,WL_EWLH,Employees working very long hours,Men,PC,3.5
+SWE,Sweden,WL_EWLH,Employees working very long hours,Men,PC,1.3
+CHE,Switzerland,WL_EWLH,Employees working very long hours,Men,PC,0.4
+TUR,Türkiye,WL_EWLH,Employees working very long hours,Men,PC,27.2
+GBR,United Kingdom,WL_EWLH,Employees working very long hours,Men,PC,15.3
+USA,United States,WL_EWLH,Employees working very long hours,Men,PC,13.9
+BRA,Brazil,WL_EWLH,Employees working very long hours,Men,PC,7.3
+CHL,Chile,WL_EWLH,Employees working very long hours,Men,PC,9.6
+EST,Estonia,WL_EWLH,Employees working very long hours,Men,PC,3.0
+ISR,Israel,WL_EWLH,Employees working very long hours,Men,PC,21.5
+LVA,Latvia,WL_EWLH,Employees working very long hours,Men,PC,2.4
+RUS,Russia,WL_EWLH,Employees working very long hours,Men,PC,0.2
+SVN,Slovenia,WL_EWLH,Employees working very long hours,Men,PC,7.9
+ZAF,South Africa,WL_EWLH,Employees working very long hours,Men,PC,19.7
+AUS,Australia,WL_EWLH,Employees working very long hours,Women,PC,6.1
+AUT,Austria,WL_EWLH,Employees working very long hours,Women,PC,2.4
+BEL,Belgium,WL_EWLH,Employees working very long hours,Women,PC,2.6
+CAN,Canada,WL_EWLH,Employees working very long hours,Women,PC,1.2
+CZE,Czech Republic,WL_EWLH,Employees working very long hours,Women,PC,2.0
+DNK,Denmark,WL_EWLH,Employees working very long hours,Women,PC,0.1
+FIN,Finland,WL_EWLH,Employees working very long hours,Women,PC,2.1
+FRA,France,WL_EWLH,Employees working very long hours,Women,PC,5.2
+DEU,Germany,WL_EWLH,Employees working very long hours,Women,PC,1.8
+GRC,Greece,WL_EWLH,Employees working very long hours,Women,PC,2.5
+HUN,Hungary,WL_EWLH,Employees working very long hours,Women,PC,0.9
+ISL,Iceland,WL_EWLH,Employees working very long hours,Women,PC,5.0
+IRL,Ireland,WL_EWLH,Employees working very long hours,Women,PC,1.7
+ITA,Italy,WL_EWLH,Employees working very long hours,Women,PC,2.2
+LUX,Luxembourg,WL_EWLH,Employees working very long hours,Women,PC,2.0
+MEX,Mexico,WL_EWLH,Employees working very long hours,Women,PC,17.4
+NLD,Netherlands,WL_EWLH,Employees working very long hours,Women,PC,0.1
+NZL,New Zealand,WL_EWLH,Employees working very long hours,Women,PC,8.6
+NOR,Norway,WL_EWLH,Employees working very long hours,Women,PC,0.6
+POL,Poland,WL_EWLH,Employees working very long hours,Women,PC,1.3
+PRT,Portugal,WL_EWLH,Employees working very long hours,Women,PC,3.3
+SVK,Slovak Republic,WL_EWLH,Employees working very long hours,Women,PC,2.0
+ESP,Spain,WL_EWLH,Employees working very long hours,Women,PC,1.4
+SWE,Sweden,WL_EWLH,Employees working very long hours,Women,PC,0.5
+CHE,Switzerland,WL_EWLH,Employees working very long hours,Women,PC,0.3
+TUR,Türkiye,WL_EWLH,Employees working very long hours,Women,PC,20.1
+GBR,United Kingdom,WL_EWLH,Employees working very long hours,Women,PC,6.3
+USA,United States,WL_EWLH,Employees working very long hours,Women,PC,6.6
+BRA,Brazil,WL_EWLH,Employees working very long hours,Women,PC,3.6
+CHL,Chile,WL_EWLH,Employees working very long hours,Women,PC,5.0
+EST,Estonia,WL_EWLH,Employees working very long hours,Women,PC,1.4
+ISR,Israel,WL_EWLH,Employees working very long hours,Women,PC,6.8
+LVA,Latvia,WL_EWLH,Employees working very long hours,Women,PC,1.0
+RUS,Russia,WL_EWLH,Employees working very long hours,Women,PC,0.1
+SVN,Slovenia,WL_EWLH,Employees working very long hours,Women,PC,2.9
+ZAF,South Africa,WL_EWLH,Employees working very long hours,Women,PC,10.4
+AUS,Australia,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.36
+AUT,Austria,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.51
+BEL,Belgium,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.52
+CAN,Canada,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.57
+FIN,Finland,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.17
+FRA,France,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,16.2
+DEU,Germany,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.62
+GRC,Greece,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.03
+HUN,Hungary,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.08
+IRL,Ireland,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.54
+ITA,Italy,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,16.47
+JPN,Japan,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.1
+KOR,Korea,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.83
+NLD,Netherlands,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.45
+NZL,New Zealand,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.87
+NOR,Norway,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.67
+POL,Poland,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.68
+ESP,Spain,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,15.75
+TUR,Türkiye,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.61
+GBR,United Kingdom,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.94
+USA,United States,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.57
+EST,Estonia,WL_TNOW,Time devoted to leisure and personal care,Total,HOUR,14.98
+AUS,Australia,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.8
+AUT,Austria,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.7
+BEL,Belgium,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.6
+CAN,Canada,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.6
+FIN,Finland,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.3
+FRA,France,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,16.4
+DEU,Germany,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.7
+GRC,Greece,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.4
+HUN,Hungary,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.5
+IRL,Ireland,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.6
+ITA,Italy,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,16.9
+JPN,Japan,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.2
+KOR,Korea,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.1
+NLD,Netherlands,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.4
+NZL,New Zealand,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.6
+NOR,Norway,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.0
+POL,Poland,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.9
+ESP,Spain,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,16.1
+TUR,Türkiye,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.8
+GBR,United Kingdom,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.0
+USA,United States,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,14.8
+EST,Estonia,WL_TNOW,Time devoted to leisure and personal care,Men,HOUR,15.4
+AUS,Australia,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,13.65
+AUT,Austria,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.31
+BEL,Belgium,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,15.33
+CAN,Canada,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.47
+FIN,Finland,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,15.05
+FRA,France,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,15.92
+DEU,Germany,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,15.57
+GRC,Greece,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.78
+HUN,Hungary,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.55
+IRL,Ireland,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.41
+ITA,Italy,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,15.52
+JPN,Japan,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.0
+KOR,Korea,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.47
+NLD,Netherlands,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,15.67
+NZL,New Zealand,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.53
+NOR,Norway,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,16.39
+POL,Poland,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.33
+ESP,Spain,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,15.26
+TUR,Türkiye,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.07
+GBR,United Kingdom,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.88
+USA,United States,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.29
+EST,Estonia,WL_TNOW,Time devoted to leisure and personal care,Women,HOUR,14.55
+COL,Colombia,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.4
+LTU,Lithuania,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,2.4
+COL,Colombia,HO_BASE,Dwellings without basic facilities,Total,PC,12.3
+LTU,Lithuania,HO_BASE,Dwellings without basic facilities,Total,PC,11.8
+LTU,Lithuania,HO_HISH,Housing expenditure,Total,PC,18.4
+COL,Colombia,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,50.0
+LTU,Lithuania,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,62.0
+COL,Colombia,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,54.0
+LTU,Lithuania,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,69.0
+COL,Colombia,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,45.0
+LTU,Lithuania,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,56.0
+COL,Colombia,HO_NUMR,Rooms per person,Total,RATIO,1.0
+LTU,Lithuania,HO_NUMR,Rooms per person,Total,RATIO,1.5
+LTU,Lithuania,IW_HADI,Household net adjusted disposable income,Total,USD,26976.0
+LTU,Lithuania,IW_HNFW,Household net wealth,Total,USD,182039.0
+COL,Colombia,JE_EMPL,Employment rate,Total,PC,58.0
+LTU,Lithuania,JE_EMPL,Employment rate,Total,PC,72.0
+COL,Colombia,JE_EMPL,Employment rate,Men,PC,71.0
+LTU,Lithuania,JE_EMPL,Employment rate,Men,PC,72.0
+COL,Colombia,JE_EMPL,Employment rate,Women,PC,45.0
+LTU,Lithuania,JE_EMPL,Employment rate,Women,PC,71.0
+COL,Colombia,JE_LTUR,Long-term unemployment rate,Total,PC,1.1
+LTU,Lithuania,JE_LTUR,Long-term unemployment rate,Total,PC,2.5
+COL,Colombia,JE_LTUR,Long-term unemployment rate,Men,PC,0.7
+LTU,Lithuania,JE_LTUR,Long-term unemployment rate,Men,PC,2.5
+COL,Colombia,JE_LTUR,Long-term unemployment rate,Women,PC,1.6
+LTU,Lithuania,JE_LTUR,Long-term unemployment rate,Women,PC,2.4
+LTU,Lithuania,JE_PEARN,Personal earnings,Total,USD,31811.0
+COL,Colombia,SC_SNTWS,Quality of support network,Total,PC,80.0
+LTU,Lithuania,SC_SNTWS,Quality of support network,Total,PC,89.0
+COL,Colombia,SC_SNTWS,Quality of support network,Men,PC,76.0
+LTU,Lithuania,SC_SNTWS,Quality of support network,Men,PC,89.0
+COL,Colombia,SC_SNTWS,Quality of support network,Women,PC,83.0
+LTU,Lithuania,SC_SNTWS,Quality of support network,Women,PC,88.0
+COL,Colombia,SC_SNTWS,Quality of support network,High,PC,92.0
+LTU,Lithuania,SC_SNTWS,Quality of support network,High,PC,96.0
+COL,Colombia,SC_SNTWS,Quality of support network,Low,PC,80.0
+LTU,Lithuania,SC_SNTWS,Quality of support network,Low,PC,88.0
+COL,Colombia,ES_EDUA,Educational attainment,Total,PC,59.0
+LTU,Lithuania,ES_EDUA,Educational attainment,Total,PC,94.0
+COL,Colombia,ES_EDUA,Educational attainment,Men,PC,56.0
+LTU,Lithuania,ES_EDUA,Educational attainment,Men,PC,91.0
+COL,Colombia,ES_EDUA,Educational attainment,Women,PC,61.0
+LTU,Lithuania,ES_EDUA,Educational attainment,Women,PC,96.0
+COL,Colombia,ES_STCS,Student skills,Total,AVSCORE,406.0
+LTU,Lithuania,ES_STCS,Student skills,Total,AVSCORE,480.0
+COL,Colombia,ES_STCS,Student skills,Men,AVSCORE,409.0
+LTU,Lithuania,ES_STCS,Student skills,Men,AVSCORE,472.0
+COL,Colombia,ES_STCS,Student skills,Women,AVSCORE,402.0
+LTU,Lithuania,ES_STCS,Student skills,Women,AVSCORE,488.0
+COL,Colombia,ES_STCS,Student skills,High,AVSCORE,459.0
+LTU,Lithuania,ES_STCS,Student skills,High,AVSCORE,522.0
+COL,Colombia,ES_STCS,Student skills,Low,AVSCORE,373.0
+LTU,Lithuania,ES_STCS,Student skills,Low,AVSCORE,432.0
+COL,Colombia,ES_EDUEX,Years in education,Total,YR,14.0
+LTU,Lithuania,ES_EDUEX,Years in education,Total,YR,18.0
+COL,Colombia,ES_EDUEX,Years in education,Men,YR,14.0
+LTU,Lithuania,ES_EDUEX,Years in education,Men,YR,18.0
+COL,Colombia,ES_EDUEX,Years in education,Women,YR,14.0
+LTU,Lithuania,ES_EDUEX,Years in education,Women,YR,19.0
+COL,Colombia,EQ_AIRP,Air pollution,Total,MICRO_M3,22.6
+LTU,Lithuania,EQ_AIRP,Air pollution,Total,MICRO_M3,10.5
+COL,Colombia,EQ_WATER,Water quality,Total,PC,82.0
+LTU,Lithuania,EQ_WATER,Water quality,Total,PC,83.0
+COL,Colombia,EQ_WATER,Water quality,Men,PC,80.0
+LTU,Lithuania,EQ_WATER,Water quality,Men,PC,85.0
+COL,Colombia,EQ_WATER,Water quality,Women,PC,83.0
+LTU,Lithuania,EQ_WATER,Water quality,Women,PC,81.0
+COL,Colombia,CG_VOTO,Voter turnout,Total,PC,53.0
+LTU,Lithuania,CG_VOTO,Voter turnout,Total,PC,57.0
+COL,Colombia,HS_LEB,Life expectancy,Total,YR,76.7
+LTU,Lithuania,HS_LEB,Life expectancy,Total,YR,76.4
+COL,Colombia,HS_LEB,Life expectancy,Men,YR,73.5
+LTU,Lithuania,HS_LEB,Life expectancy,Men,YR,71.6
+COL,Colombia,HS_LEB,Life expectancy,Women,YR,79.9
+LTU,Lithuania,HS_LEB,Life expectancy,Women,YR,81.2
+COL,Colombia,HS_SFRH,Self-reported health,Total,PC,80.0
+LTU,Lithuania,HS_SFRH,Self-reported health,Total,PC,46.0
+COL,Colombia,HS_SFRH,Self-reported health,Men,PC,84.0
+LTU,Lithuania,HS_SFRH,Self-reported health,Men,PC,52.0
+COL,Colombia,HS_SFRH,Self-reported health,Women,PC,78.0
+LTU,Lithuania,HS_SFRH,Self-reported health,Women,PC,42.0
+COL,Colombia,HS_SFRH,Self-reported health,High,PC,84.0
+LTU,Lithuania,HS_SFRH,Self-reported health,High,PC,67.0
+COL,Colombia,HS_SFRH,Self-reported health,Low,PC,76.0
+LTU,Lithuania,HS_SFRH,Self-reported health,Low,PC,26.0
+COL,Colombia,SW_LIFS,Life satisfaction,Total,AVSCORE,5.7
+LTU,Lithuania,SW_LIFS,Life satisfaction,Total,AVSCORE,6.4
+COL,Colombia,SW_LIFS,Life satisfaction,Men,AVSCORE,5.7
+LTU,Lithuania,SW_LIFS,Life satisfaction,Men,AVSCORE,6.6
+COL,Colombia,SW_LIFS,Life satisfaction,Women,AVSCORE,5.7
+LTU,Lithuania,SW_LIFS,Life satisfaction,Women,AVSCORE,6.2
+COL,Colombia,SW_LIFS,Life satisfaction,High,AVSCORE,7.1
+LTU,Lithuania,SW_LIFS,Life satisfaction,High,AVSCORE,7.2
+COL,Colombia,SW_LIFS,Life satisfaction,Low,AVSCORE,5.7
+LTU,Lithuania,SW_LIFS,Life satisfaction,Low,AVSCORE,6.2
+COL,Colombia,PS_REPH,Homicide rate,Total,RATIO,23.1
+LTU,Lithuania,PS_REPH,Homicide rate,Total,RATIO,2.5
+COL,Colombia,PS_REPH,Homicide rate,Men,RATIO,43.0
+LTU,Lithuania,PS_REPH,Homicide rate,Men,RATIO,4.0
+COL,Colombia,PS_REPH,Homicide rate,Women,RATIO,4.1
+LTU,Lithuania,PS_REPH,Homicide rate,Women,RATIO,1.0
+COL,Colombia,WL_EWLH,Employees working very long hours,Total,PC,23.7
+LTU,Lithuania,WL_EWLH,Employees working very long hours,Total,PC,1.0
+COL,Colombia,WL_EWLH,Employees working very long hours,Men,PC,28.2
+LTU,Lithuania,WL_EWLH,Employees working very long hours,Men,PC,1.1
+COL,Colombia,WL_EWLH,Employees working very long hours,Women,PC,17.1
+LTU,Lithuania,WL_EWLH,Employees working very long hours,Women,PC,0.8
+CRI,Costa Rica,CG_SENG,Stakeholder engagement for developing regulations,Total,AVSCORE,1.8
+CRI,Costa Rica,HO_BASE,Dwellings without basic facilities,Total,PC,2.3
+CRI,Costa Rica,HO_HISH,Housing expenditure,Total,PC,17.0
+CRI,Costa Rica,PS_FSAFEN,Feeling safe walking alone at night,Total,PC,47.0
+CRI,Costa Rica,PS_FSAFEN,Feeling safe walking alone at night,Men,PC,59.0
+CRI,Costa Rica,PS_FSAFEN,Feeling safe walking alone at night,Women,PC,36.0
+CRI,Costa Rica,HO_NUMR,Rooms per person,Total,RATIO,1.2
+CRI,Costa Rica,IW_HADI,Household net adjusted disposable income,Total,USD,16517.0
+CRI,Costa Rica,JE_EMPL,Employment rate,Total,PC,55.0
+CRI,Costa Rica,JE_EMPL,Employment rate,Men,PC,68.0
+CRI,Costa Rica,JE_EMPL,Employment rate,Women,PC,41.0
+CRI,Costa Rica,JE_LTUR,Long-term unemployment rate,Total,PC,1.5
+CRI,Costa Rica,JE_LTUR,Long-term unemployment rate,Men,PC,0.8
+CRI,Costa Rica,JE_LTUR,Long-term unemployment rate,Women,PC,2.6
+CRI,Costa Rica,SC_SNTWS,Quality of support network,Total,PC,82.0
+CRI,Costa Rica,SC_SNTWS,Quality of support network,Men,PC,80.0
+CRI,Costa Rica,SC_SNTWS,Quality of support network,Women,PC,85.0
+CRI,Costa Rica,SC_SNTWS,Quality of support network,High,PC,90.0
+CRI,Costa Rica,SC_SNTWS,Quality of support network,Low,PC,85.0
+CRI,Costa Rica,ES_EDUA,Educational attainment,Total,PC,43.0
+CRI,Costa Rica,ES_EDUA,Educational attainment,Men,PC,41.0
+CRI,Costa Rica,ES_EDUA,Educational attainment,Women,PC,44.0
+CRI,Costa Rica,ES_STCS,Student skills,Total,AVSCORE,415.0
+CRI,Costa Rica,ES_STCS,Student skills,Men,AVSCORE,417.0
+CRI,Costa Rica,ES_STCS,Student skills,Women,AVSCORE,413.0
+CRI,Costa Rica,ES_STCS,Student skills,High,AVSCORE,476.0
+CRI,Costa Rica,ES_STCS,Student skills,Low,AVSCORE,392.0
+CRI,Costa Rica,EQ_AIRP,Air pollution,Total,MICRO_M3,17.5
+CRI,Costa Rica,EQ_WATER,Water quality,Total,PC,87.0
+CRI,Costa Rica,EQ_WATER,Water quality,Men,PC,90.0
+CRI,Costa Rica,EQ_WATER,Water quality,Women,PC,85.0
+CRI,Costa Rica,CG_VOTO,Voter turnout,Total,PC,66.0
+CRI,Costa Rica,HS_LEB,Life expectancy,Total,YR,80.5
+CRI,Costa Rica,HS_LEB,Life expectancy,Men,YR,77.9
+CRI,Costa Rica,HS_LEB,Life expectancy,Women,YR,83.0
+CRI,Costa Rica,HS_SFRH,Self-reported health,Total,PC,73.0
+CRI,Costa Rica,HS_SFRH,Self-reported health,Men,PC,77.0
+CRI,Costa Rica,HS_SFRH,Self-reported health,Women,PC,70.0
+CRI,Costa Rica,SW_LIFS,Life satisfaction,Total,AVSCORE,6.3
+CRI,Costa Rica,SW_LIFS,Life satisfaction,Men,AVSCORE,6.2
+CRI,Costa Rica,SW_LIFS,Life satisfaction,Women,AVSCORE,6.5
+CRI,Costa Rica,SW_LIFS,Life satisfaction,High,AVSCORE,7.1
+CRI,Costa Rica,SW_LIFS,Life satisfaction,Low,AVSCORE,6.5
+CRI,Costa Rica,PS_REPH,Homicide rate,Total,RATIO,10.0
+CRI,Costa Rica,PS_REPH,Homicide rate,Men,RATIO,18.2
+CRI,Costa Rica,PS_REPH,Homicide rate,Women,RATIO,1.8
+CRI,Costa Rica,WL_EWLH,Employees working very long hours,Total,PC,22.0
+CRI,Costa Rica,WL_EWLH,Employees working very long hours,Men,PC,27.9
+CRI,Costa Rica,WL_EWLH,Employees working very long hours,Women,PC,12.7
