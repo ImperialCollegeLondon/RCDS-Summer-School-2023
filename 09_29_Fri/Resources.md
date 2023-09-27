@@ -12,7 +12,7 @@ Here are some resources that you might find useful as starting points for your p
 * [UK government open data](https://www.data.gov.uk)
 * [UK data service](https://ukdataservice.ac.uk)
 * [CERN open data](https://opendata.cern.ch)
-* [Google search "open data"](http://google.com/search?query='open data')
+* [Google search "open data"](http://google.com/search?query='open%20data')
 
 
 ## APIs
