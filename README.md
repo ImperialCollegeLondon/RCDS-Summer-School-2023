@@ -27,3 +27,10 @@ The code cells can be executed using the arrow icon to the left of the cell. Alt
 ![notebook code cell](/Resources/notebook_code_cell.png "Notebook code cell")
 
 The text cells in Notebooks are prepared using [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
+
+---
+
+## Feedback
+We need your help to make the summer school better next year!
+Please fill in the mentimeter feedback poll before you leave today (it will only take 3 minutes):
+https://www.menti.com/al5wp2pu3uz3
