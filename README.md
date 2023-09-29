@@ -1,6 +1,15 @@
 # RCDS Summer School 2023
 #### Imperial College London
 
+---
+
+## Feedback
+We need your help to make the summer school better next year!
+Please fill in the mentimeter feedback poll before you leave today (it will only take 3 minutes):
+https://www.menti.com/al5wp2pu3uz3
+
+---
+
 ## Welcome!
 Welcome to the [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/) Summer School 2023! We are delighted to have you with us for a week. Please check the [full schedule here](https://blogs.imperial.ac.uk/postgraduatenoticeboard/files/2023/08/RCDS_summer_school.pdf).
 
@@ -28,9 +37,4 @@ The code cells can be executed using the arrow icon to the left of the cell. Alt
 
 The text cells in Notebooks are prepared using [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
 
----
 
-## Feedback
-We need your help to make the summer school better next year!
-Please fill in the mentimeter feedback poll before you leave today (it will only take 3 minutes):
-https://www.menti.com/al5wp2pu3uz3
