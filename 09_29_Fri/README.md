@@ -24,3 +24,8 @@ B. Programming Project
 
 * Continue working on the Connect 4 Task.
 * Choose your own project.
+
+When you have something interesting to show, paste a screenshot to [Padlet](https://padlet.com/jpinney5/rcds-summer-school-2023-qhj9p1mk247jevvh) and include a short explanation of your project.
+
+
+
